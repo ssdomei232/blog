@@ -5,7 +5,6 @@ tags:
 - 开源
 categories: 
 - Linux
-permalink: /weekly/2024-15/index.html
 index_img: /img/2024/
 banner_img: /img/2024/
 permalink: /articles/2024/docker-osx/index.html
