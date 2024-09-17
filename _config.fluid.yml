@@ -119,7 +119,7 @@ fun_features:
   progressbar:
     enable: true
     height_px: 3
-    color: "#29d"
+    color: "#66ccff"
     # See: https://github.com/rstacruz/nprogress
     options: { showSpinner: false, trickleSpeed: 100 }
 
@@ -268,7 +268,7 @@ web_analytics:  # 网页访问统计
   # 51.la 站点统计 ID
   # 51.la analytics
   # See: https://www.51.la/user/site/index
-  woyaola:  # 51.la 站点统计 ID，参见
+  woyaola: 
 
   # 友盟/cnzz 站点统计 web_id
   # cnzz analytics
@@ -438,7 +438,7 @@ footer:
     <i class="iconfont icon-love"></i>
     <a href="https://github.com/fluid-dev/hexo-theme-fluid" target="_blank" rel="nofollow noopener"><span>Fluid</span></a>
     <p>©2009-2024 mei</p>
-    <p>本网站由<a href= "https://www.phytium.com.cn/homepage/production/1/">Phytium飞腾芯片</a>强力驱动</p>
+    <p>本网站由<a href= "https://www.phytium.com.cn/">Phytium飞腾芯片</a>强力驱动</p>
 		<p><img src="https://static.mmeiblog.cn/img/phytium.png" style="height: 100px;"/></p>
   '
 
