@@ -6,7 +6,7 @@ categories:
 - Minecraft
 index_img: /img/2023/9/29/00013-3883135775.webp
 banner_img: /img/2023/9/29/00013-3883135775.webp
-permalink: /2023/09/29/202309291221/index.html
+permalink: /articles/2023/mcserver.html
 date: 2023-09-29 12:21:22
 ---
 

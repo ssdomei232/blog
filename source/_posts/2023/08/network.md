@@ -8,7 +8,7 @@ categories:
 - 技术
 index_img: /img/2023/8/31/00001-430238757.png
 banner_img: /img/2023/8/31/00001-430238757.png
-permalink: /2023/08/31/202308312024/index.html
+permalink: /articles/2023/network.html
 date: 2023-08-31 20:24:31
 ---
 

@@ -7,17 +7,12 @@ categories:
 - Linux
 index_img: /img/2023/8/19/mcsm/8.webp
 banner_img: /img/2023/8/19/mcsm/8.webp
-permalink: /2023/08/19/202308191605/index.html
+permalink: /articles/2023/mcsm.html
 date: 2023-08-19 16:05:12
 ---
-**由于MCSM10的更新,本教程已经过期**
-# 视频教程
-
-~~更加详细，适合极度小白人士。~~
-
-ps:不敢说话
-
-<iframe src="https://player.bilibili.com/player.html?bvid=BV1dh4y1T7p9&amp;page=1" width="100%" height="300px" frameborder="0" allowfullscreen="true" framespacing="0"></iframe>
+{% note danger %}
+由于MCSM10的更新,本教程已经过期
+{% endnote %}
 
 # 使用雨云游戏云面板服
 

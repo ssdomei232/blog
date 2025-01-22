@@ -6,7 +6,7 @@ categories:
 - 运维
 index_img: /img/2023/8/11/serveryc/1.png
 banner_img: /img/2023/8/11/serveryc/1.png
-permalink: /2023/08/11/202308112222/index.html
+permalink: /articles/2023/server-voice.html
 date: 2023-08-11 22:22:22
 ---
 

@@ -7,7 +7,7 @@ categories:
 - VPS使用体验
 index_img: /img/2023/8/11/rainsq/1.png
 banner_img: /img/2023/8/11/rainsq/1.png
-permalink: /2023/08/11/202308112227/index.html
+permalink: /articles/2023/rainyunsq.html
 date: 2023-08-11 22:27:34
 ---
 我本打算趁着暑假买台云服务器开mc服务器，但由于没有试用且直接完结导致白废20块钱。

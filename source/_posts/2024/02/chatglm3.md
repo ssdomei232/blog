@@ -7,7 +7,7 @@ categories:
 - 学习笔记
 index_img: /img/2024/2/17/chatglm3.png
 banner_img: /img/2024/2/17/chatglm3.png
-permalink: /2024/02/16/chatglm3/index.html
+permalink: /articles/2024/chatglm3.html
 date: 2024-02-16 20:34:02
 ---
 ChatGLM3是智谱AI和清华大学 KEG 实验室联合发布的对话预训练模型。  

@@ -9,9 +9,12 @@ categories:
 - Linux
 index_img: /img/2023/7/20/ftmc/00012-2560986177.webp
 banner_img: /img/2023/7/20/ftmc/00012-2560986177.webp
-permalink: /2023/07/20/202307202213/index.html
+permalink: /articles/2023/phytium-mcsm.html
 date: 2023-07-20 22:13:12
 ---
+{% note danger %}
+此教程已经过时,MCSM已经推出 10 版本
+{% endnote %}
 在今年的3月份，我搞到了一台长城制造的搭载国产arm架构cpu(飞腾D2000/8）的高度国产化主机世恒TD120A2.
 
 具体配置:

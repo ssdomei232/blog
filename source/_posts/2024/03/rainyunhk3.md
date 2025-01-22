@@ -6,7 +6,7 @@ categories:
 - VPS使用体验
 index_img: /img/2024/3/18/index.webp
 banner_img: /img/2024/3/18/index.webp
-permalink: /2024/03/18/rainyunhk3/index.html
+permalink: /articles/2024/rainyun-hk-3.html
 date: 2024-03-18 08:22:45
 ---
 雨云在2024年3月17日22:30分左右突然上架了香港三区服务器(这上的也太不是时候了,我都上床睡觉了2333333)   

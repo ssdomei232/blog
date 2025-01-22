@@ -7,7 +7,7 @@ categories:
 - 旅拍
 index_img: /img/2023/7/19/cq/3.jpg
 banner_img: /img/2023/7/19/cq/1.jpg
-permalink: /2023/07/19/202307192109/index.html
+permalink: /articles/2023/cqhp.html
 date: 2023-07-19 21:09:01
 ---
 

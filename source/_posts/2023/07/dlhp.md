@@ -7,7 +7,7 @@ categories:
 - 旅拍
 index_img: /img/2023/7/19/dl/4.jpg
 banner_img: /img/2023/7/19/dl/1.jpg
-permalink: /2023/07/19/202307192207/index.html
+permalink: /articles/2023/dl.html
 date: 2023-07-19 22:07:21
 ---
 

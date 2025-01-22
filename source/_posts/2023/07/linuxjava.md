@@ -7,7 +7,7 @@ categories:
 - Linux
 index_img: /img/2023/7/1/00011-1003087495.webp
 banner_img: /img/2023/7/1/00011-1003087495.webp
-permalink: /2023/07/01/202307012105/index.html
+permalink: /articles/2023/linux-install-java.html
 date: 2023-07-01 21:05:01
 ---
 

@@ -7,7 +7,7 @@ categories:
 - API
 index_img: /img/2023/7/22/00004-613788523.png
 banner_img: /img/2023/7/22/00004-613788523.png
-permalink: /2023/07/22/202307222216/index.html
+permalink: /articles/2023/rd-api.html
 date: 2023-07-22 22:16:33
 ---
 2024年5月10日更新:

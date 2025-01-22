@@ -7,7 +7,7 @@ categories:
 - AI
 index_img: /img/2024/1/25/openai.jpg
 banner_img: /img/2024/1/25/openai.jpg
-permalink: /2024/01/25/202401250927/index.html
+permalink: /articles/2024/openai-proxy.html
 date: 2024-01-25 09:27:45
 ---
 在去年(2023年),我看到了极客湾的这个视频:[我们做了个能对话的AI派蒙，免费给大家玩!](https://b23.tv/Ap27xLS)

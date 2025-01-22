@@ -7,7 +7,7 @@ categories:
 - 学习笔记
 index_img: /img/2024/3/17/nsfw.png
 banner_img: /img/2024/3/17/nsfw.png
-permalink: /2024/03/17/lskynsfw/index.html
+permalink: /articles/2024/lsky-nsfw.html
 date: 2024-03-17 21:12:51
 ---
 ~~闲的无聊弄了一个图床:`https://tc.linuxcat.top/`~~     

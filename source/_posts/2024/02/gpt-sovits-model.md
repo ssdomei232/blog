@@ -7,7 +7,7 @@ categories:
 - AI
 index_img: /img/2024/2/2/index.png
 banner_img: /img/2024/2/2/index.png
-permalink: /2024/02/02/202402021629/index.html
+permalink: /articles/2024/gpt-sovits-model.html
 date: 2024-02-02 16:30:00
 ---
 GPT-sovits是一个简单好用的TTS模型，开源地址:        

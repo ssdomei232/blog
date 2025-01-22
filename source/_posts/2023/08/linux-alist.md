@@ -6,7 +6,7 @@ categories:
 - Linux
 index_img: /img/2023/8/14/linalist/t.png
 banner_img: /img/2023/8/14/linalist/t.png
-permalink: /2023/08/14/202308140813/index.html
+permalink: /articles/2023/linux-alist.html
 date: 2023-08-14 08:13:33
 ---
 

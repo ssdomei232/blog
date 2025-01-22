@@ -9,7 +9,7 @@ categories:
 - Linux
 index_img: /img/2024/4/linuxpkg-offline/00020-3477423043.webp
 banner_img: /img/2024/4/linuxpkg-offline/00020-3477423043.webp
-permalink: /2024/03/17/linuxpkg-offline/index.html
+permalink: /articles/2024/linuxpkg-offline.html
 ---
 ### 制作
 ```bash

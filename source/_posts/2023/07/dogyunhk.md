@@ -7,7 +7,7 @@ categories:
 - VPS使用体验
 index_img: /img/2023/7/26/dogyunhk/1.png
 banner_img: /img/2023/7/26/dogyunhk/1.png
-permalink: /2023/07/26/202307262221/index.html
+permalink: /articles/2023/dogyun-hk.html
 date: 2023-07-26 22:21:21
 ---
 2024.2.21更新

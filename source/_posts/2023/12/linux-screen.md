@@ -7,7 +7,7 @@ categories:
 - Linux
 index_img: /img/2023/12/6/00015-1315254036.webp
 banner_img: /img/2023/12/6/00015-1315254036.webp
-permalink: /2023/12/06/202312061055/index.html
+permalink: /articles/2023/linux-screen.html
 date: 2023-12-06 10:55:44
 ---
 ## screen 是啥

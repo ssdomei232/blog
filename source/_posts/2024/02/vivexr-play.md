@@ -7,7 +7,7 @@ categories:
 - 试玩体验
 index_img: /img/2024/2/10/xr.jpg
 banner_img: /img/2024/2/10/xr.jpg
-permalink: /2024/02/10/202402102033/index.html
+permalink: /articles/2024/vivexr-play.html
 date: 2024-02-10 20:33:57
 ---
 最近寒假由于apple vision pro的火爆，所以对MR很感兴趣，所以找人借来了一台VIVE XR，不过写这篇文章的时候机器已经还回去了(因为不好玩)

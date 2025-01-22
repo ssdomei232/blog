@@ -6,7 +6,7 @@ categories:
 - VPS使用体验
 index_img: /img/2023/8/13/rainhk/1.png
 banner_img: /img/2023/8/13/rainhk/1.png
-permalink: /2023/08/13/202308132237/index.html
+permalink: /articles/2023/rainyunhk.html
 date: 2023-08-13 22:37:22
 ---
 雨云香港云服务器顶配版测评

@@ -8,7 +8,7 @@ categories:
 - 学习笔记
 index_img: /img/2024/2/17/torch.png
 banner_img: /img/2024/2/17/torch.png
-permalink: /2024/02/17/cuda122usepytorch/index.html
+permalink: /articles/2024/cuda122-use-pytorch.html
 date: 2024-02-17 11:36:55
 ---
 如果你在nvidia官网安装了最新版的CUDA(CUDA12.2/12.3),但访问 [https://download.pytorch.org/whl/cu122/torch_stable.html](https://download.pytorch.org/whl/cu122/torch_stable.html) 就会发现pytorch并没有支持此版本的CUDA       

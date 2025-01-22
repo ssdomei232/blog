@@ -7,7 +7,7 @@ categories:
 - Linux
 index_img: /img/2023/10/17/bt/3.png
 banner_img: /img/2023/10/17/bt/3.png
-permalink: /2023/10/17/202310172109/index.html
+permalink: /articles/2023/filecodebox-s3.html
 date: 2023-10-17 21:09:39
 ---
 (本来这是一篇使用宝塔部署的教程，但是有了Docker和1Panel，bt那坨玩意那啥都不用)
