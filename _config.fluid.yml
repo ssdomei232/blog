@@ -367,13 +367,7 @@ navbar:
   # 导航栏菜单，可自行增减，key 用来关联 languages/*.yml，如不存在关联则显示 key 本身的值；icon 是 css class，可以省略；增加 name 可以强制显示指定名称
   # Navigation bar menu. `key` is used to associate languages/*.yml. If there is no association, the value of `key` itself will be displayed; if `icon` is a css class, it can be omitted; adding `name` can force the display of the specified name
   menu:
-    - { key: 'home',
-      icon: "iconfont icon-home-fill",
-      submenu: [
-        { key: "mei的网络日志", link: "/", icon: "iconfont icon-blog" },
-        { key: "mei的网络日志-国际", link: "https://mei.lv/", icon: "iconfont icon-mudedi" }
-      ]
-    }
+    - { key: 'home', link: "/", icon: "iconfont icon-home-fill" }
     - {
       key: '页面',
       icon: 'iconfont icon-program',
@@ -460,12 +454,8 @@ footer:
   # 页脚第一行文字的 HTML，建议保留 Fluid 的链接，用于向更多人推广本主题
   # HTML of the first line of the footer, it is recommended to keep the Fluid link to promote this theme to more people
   content: '
-    <a href="https://hexo.io" target="_blank" rel="nofollow noopener"><span>Hexo</span></a>
-    <i class="iconfont icon-love"></i>
-    <a href="https://github.com/fluid-dev/hexo-theme-fluid" target="_blank" rel="nofollow noopener"><span>Fluid</span></a>
-    <p>©2009-2025 mei</p>
-    <p>本网站由<a href= "https://www.phytium.com.cn/">Phytium飞腾芯片</a>强力驱动</p>
-		<p><img src="https://static.mmeiblog.cn/img/phytium.png" style="height: 100px;"/></p>
+    <p>©2009 - 2025 mei</p>
+    <p><a href="https://icp.gov.moe/?keyword=20241233" target="_blank">萌ICP备20241233号</a></p>
   '
 
   # 展示网站的 PV、UV 统计数
@@ -504,7 +494,7 @@ index:
   # 头图高度，屏幕百分比
   # Height ratio of banner image
   # Available: 0 - 100
-  banner_img_height: 100
+  banner_img_height: 60
 
   # 头图黑色蒙版的不透明度，available: 0 - 1.0，1 是完全不透明
   # Opacity of the banner mask, 1.0 is completely opaque
@@ -1006,6 +996,7 @@ about:
     - { class: "iconfont icon-email", link: "mailto:i@mmeiblog.cn", tip: "e-mail" }
     - { class: "iconfont icon-QQ", link: "https://qm.qq.com/q/5Vk6Y4kipG", tip: "qq" }
     - { class: "iconfont icon-DJI", link: "https://www.skypixel.com/users/djiuser-o6adwwaopzlp", tip: "天空之城" }
+    - { class: "iconfont icon-telegram", link: "https://t.me/linuxcat_mei", tip: "telegram" }
 
 
 
@@ -1099,9 +1090,15 @@ links:
     - {
       title: "DP次元美化",
       intro: "二次元美化技术交流社区",
-      link: "https://mh.dp712.com",
-      avatar: "https://mh.dp712.com/yqljlogo/dp.webp"
+      link: "https://re.xcdream.com/",
+      avatar: "https://dl.xcdream.com/2025/01/20250106043320606.png?imageMogr2/crop/60x60/gravity/centers"
     }
+    - {
+        title: "Pinpe 的云端",
+        intro: "一个属于自己的云朵。",
+        link: "https://pinpe.top",
+        avatar: "https://pinpe.top/head.jpg"
+      }
 
   # 当成员头像加载失败时，替换为指定图片
   # When the member avatar fails to load, replace the specified image
@@ -1111,7 +1108,13 @@ links:
   # Custom content at the bottom of the links
   custom:
     enable: true
-    content: '<p><a href="https://static.mmeiblog.cn/web/link-cemetery/">友链坟场</a></p>'
+    content: '欢迎来<a href="mailto:i@mmeiblog.cn">i@mmeiblog.cn</a>交个朋友哦</br>
+    交友示例:</br>网站名: "mei的网络日志",</br>
+    网站地址: "https://mei.lv",</br>
+    网站favicon: "https://api.mmeiblog.cn/?api=favicon",</br>
+    网站介绍: "玩玩摄影，聊聊技术 - https://mei.lv"</br>
+    <a href="https://static.mmeiblog.cn/web/link-cemetery/">友链坟场</a>
+    '
 
   # 评论插件
   # Comment plugin
