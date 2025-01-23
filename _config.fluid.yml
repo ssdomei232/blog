@@ -993,7 +993,7 @@ about:
     - { class: "iconfont icon-github-fill", link: "https://github.com/ssdomei232", tip: "GitHub" }
     - { class: "iconfont icon-bilibili-line", link: "https://space.bilibili.com/521933071", tip: "bilibili" }
     - { class: "iconfont icon-netease-cloud-music-line", link: "https://music.163.com/#/user/home?id=8118136968", tip: "cloudmusic" }
-    - { class: "iconfont icon-email", link: "mailto:i@mmeiblog.cn", tip: "e-mail" }
+    - { class: "iconfont icon-email", link: "mailto:i@mei.lv", tip: "e-mail" }
     - { class: "iconfont icon-QQ", link: "https://qm.qq.com/q/5Vk6Y4kipG", tip: "qq" }
     - { class: "iconfont icon-DJI", link: "https://www.skypixel.com/users/djiuser-o6adwwaopzlp", tip: "天空之城" }
     - { class: "iconfont icon-telegram", link: "https://t.me/linuxcat_mei", tip: "telegram" }
@@ -1108,7 +1108,7 @@ links:
   # Custom content at the bottom of the links
   custom:
     enable: true
-    content: '欢迎来<a href="mailto:i@mmeiblog.cn">i@mmeiblog.cn</a>交个朋友哦</br>
+    content: '欢迎来<a href="mailto:i@mei.lv">i@mei.lv</a>交个朋友哦</br>
     交友示例:</br>网站名: "mei的网络日志",</br>
     网站地址: "https://mei.lv",</br>
     网站favicon: "https://api.mmeiblog.cn/?api=favicon",</br>
