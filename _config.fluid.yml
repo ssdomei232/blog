@@ -335,7 +335,7 @@ lazyload:
 
 # 图标库，包含了大量社交类图标，主题依赖的不包含在内，因此可自行修改，详见 https://hexo.fluid-dev.com/docs/icon/
 # Icon library, which includes many social icons, does not include those theme dependent, so your can modify link by yourself. See: https://hexo.fluid-dev.com/docs/en/icon/
-iconfont: //at.alicdn.com/t/c/font_4340394_kouor8bclhr.css
+iconfont: //at.alicdn.com/t/c/font_4340394_nwbq4p7zql.css
 
 
 #---------------------------
@@ -377,6 +377,7 @@ navbar:
         { key: "归档", link: "/archives/", icon: "iconfont icon-archive-fill" }
       ]
     }
+    - { key: "知识库", link: "https://kb.mei.lv/", icon: "icon-zhishiku" }
     - { key: "links", link: "/links/", icon: "iconfont icon-link-fill" }
     - { key: "开往", link: "https://www.travellings.cn/go.html", icon: "iconfont icon-train" }
     - { key: "RSS", link: "/atom.xml", icon: "iconfont icon-dingyue" }
@@ -986,7 +987,7 @@ about:
   banner_mask_alpha: 0.3
   avatar: https://q1.qlogo.cn/g?b=qq&nk=2181331836&s=640&t=
   name: "mei"
-  intro: "光锥之内,就是命运"
+  intro: "重度妄想症患者"
   # 更多图标可从 https://hexo.fluid-dev.com/docs/icon/ 查找，`class` 代表图标的 css class，添加 `qrcode` 后，图标不再是链接而是悬浮二维码
   # More icons can be found from https://hexo.fluid-dev.com/docs/en/icon/  `class` is the css class of the icon. If adding `qrcode`, The icon is no longer a link, but a hovering QR code
   icons:
