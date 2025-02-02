@@ -55,10 +55,11 @@ user ALL=(ALL:ALL) ALL
 ```bash
 chmod -w /etc/sudoers
 ```
-{% note warning %}
-一下内容未经验证,因为我也没有成功,并且在离线情况下完成这些操作极其麻烦,仅供参考
-{% endnote %}
+
 ## 4. 更换 银河麒麟 内核
+{% note warning %}
+以下内容未经验证,因为我也没有成功,并且在离线情况下完成这些操作极其麻烦,仅供参考
+{% endnote %}
 Debian 的内核没有集成飞腾的网卡、声卡、exFAT…… 等驱动。因此非常有必要安装带驱动的内核，这里可以使用银河麒麟的内核。
 **内核文件可以从安装光盘或安装的好本地操作系统中复制出来，也可以从软件仓库下载。**
 软件仓库: [http://archive.kylinos.cn/kylin/KYLIN-ALL/pool/main/l/linux/](http://archive.kylinos.cn/kylin/KYLIN-ALL/pool/main/l/linux/)      
