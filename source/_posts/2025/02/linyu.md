@@ -59,7 +59,7 @@ npm run build
 
 ## 数据库
 
-创建一个 `mysql` 数据库，选择`UTF-8`字符集
+创建一个 `mysql` 数据库，选择`utf8mb4`字符集
 
 ## 后端
 
