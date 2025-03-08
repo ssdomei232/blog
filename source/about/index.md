@@ -50,6 +50,8 @@ Hi! 这里是我的网络日志.
 * 内部平台效应（inner-platform effect）指的是，程序员倾向于创建一个可定制的内部系统，成为他们正在使用的外部软件的复制品，而且通常是一个糟糕的复制品。  —— 维基百科
 * 人类所有的问题，都源于人无法独自安静地坐在房间里。  —— 帕斯卡尔，法国哲学家
 * 若是坠落下去的话风会带我走吗不用再自己独自挣扎妄图去离开这个笼子  —— 《夏风》
+* 人们首先解决生存需要，然后寻求实用性，接着追求舒适性，后来又享受快乐，从而变得荒唐奢侈，最终变得疯狂并浪费物质。  —— [维柯](https://libquotes.com/giambattista-vico/quote/lbs9r7u)
+* 博客的目标读者，其实不是互联网人群，而是未来的你 —— [《如果没有人读博客，为什么要写呢？》](https://sorrycc.com/why-blog-if-nobody-reads-it)
 
 [状态检测](https://status.mei.lv/status/i)  
 [赛博斗蛐蛐](https://status.linuxcat.top/)
