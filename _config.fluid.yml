@@ -1097,6 +1097,7 @@ links:
   # Custom content at the bottom of the links
   custom:
     enable: true
+    content: '
     <strong><a href="https://static.mmeiblog.cn/web/link-cemetery/">友链坟场</a></strong>
     '
 
