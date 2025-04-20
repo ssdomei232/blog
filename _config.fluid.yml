@@ -1047,18 +1047,6 @@ links:
       avatar: "https://linuxcat.top/favicon.ico"
     }
     - {
-      title: "凌梦望初晓",
-      intro: "用你的笑容去改变这个世界，别让这个世界改变了你的笑容。",
-      link: "https://66ccff.love",
-      avatar: "https://blog.lmxiao.top/avatars/avatars.jpg"
-    }
-    - {
-      title: "星零岁の博客",
-      intro: "繁星零零，岁岁长明",
-      link: "https://blog.0xwl.com/",
-      avatar: "https://q1.qlogo.cn/g?b=qq&nk=2403362260&s=640&t="
-    }
-    - {
       title: "风屿岛",
       intro: "不知名海域的知名岛屿",
       link: "https://www.biliwind.com",
@@ -1109,12 +1097,7 @@ links:
   # Custom content at the bottom of the links
   custom:
     enable: true
-    content: '欢迎来<a href="mailto:i@mei.lv">i@mei.lv</a>交个朋友哦</br>
-    交友示例:</br>网站名: "mei的网络日志",</br>
-    网站地址: "https://mei.lv",</br>
-    网站favicon: "https://api.mmeiblog.cn/?api=favicon",</br>
-    网站介绍: "玩玩摄影，聊聊技术 - https://mei.lv"</br>
-    <a href="https://static.mmeiblog.cn/web/link-cemetery/">友链坟场</a>
+    <strong><a href="https://static.mmeiblog.cn/web/link-cemetery/">友链坟场</a></strong>
     '
 
   # 评论插件
