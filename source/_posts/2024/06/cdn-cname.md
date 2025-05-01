@@ -35,7 +35,7 @@ date: 2024-06-30 15:30:47
 | 失控的防御系统/日出CDN | cnmnmsl.top | scdn.io |
 | CNMCDN | svipcdn.cn | cnmcdn.cn |
 | 星穹CDN | cname.fun | domecdn.com |
-| 云科 | dns-waf.waf.pro | waf.pro |
+| 星极世纪 | dns-waf.waf.pro | waf.pro |
 | 明赋云 | mingfucdn.com | mingfucloud.com |
 | 括彩云 | kuocaidns.com | kuocaicdn.com |
 | 京东云星盾 | cloud-scdn.com | |
@@ -204,7 +204,7 @@ ESA 与腾讯云的 EdgeOne 一样，都很像 Cloudflare 的产品逻辑，整�
 
 * cname.fun
 
-### 云科
+### 星极世纪
 
 地址: waf.pro
 **介绍**
@@ -223,7 +223,7 @@ ESA 与腾讯云的 EdgeOne 一样，都很像 Cloudflare 的产品逻辑，整�
 
 地址: kuocaicdn.com
 **介绍**
-价格与明赋云相似,但比明赋云略贵,不过有免费额度,而且可以通过bug白嫖流量,感觉老板情绪有点激动...<!--  别人在qq群里散播它的谣言,不去找qq反而去告群主所要发布谣言的人的信息,直接把群主吓得开了全员禁言  -->
+价格但比明赋云略贵,不过有免费额度,而且可以通过bug白嫖流量,感觉老板情绪有点激动...<!--  别人在qq群里散播它的谣言,不去找qq反而去告群主索要发布谣言的人的信息,直接把群主吓得开了全员禁言  -->
 **域名列表**:
 
 * kuocaidns.com
