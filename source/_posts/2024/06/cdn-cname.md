@@ -18,7 +18,7 @@ date: 2024-06-30 15:30:47
 | 网宿   | wsdvs.com </br> wsglb0.com </br> wscdns.com | wangsucloud.com |
 | 蓝汛   | ccgslb.com.cn | edgenext.com |
 | 帝联   | fastcdn.com | dnion.com |
-| 阿里云 | kunlun*.com </br> cdngslb.com | aliyun.com |
+| 阿里云 | kunlun*.com(国内加速) </br> cdngslb.com(全球加速) </br> inittt.com(ESA) | aliyun.com |
 | 腾讯云 | dnsv1.com </br> tc.cdntip.com </br> spcdntip.com | cloud.tencent.com |
 | 百度云 | bdydns.com </br> jomodns.com | cloud.baidu.com |
 | 七牛云 | qiniudns.com | qiniu.com |
@@ -35,7 +35,7 @@ date: 2024-06-30 15:30:47
 | 失控的防御系统/日出CDN | cnmnmsl.top | scdn.io |
 | CNMCDN | svipcdn.cn | cnmcdn.cn |
 | 星穹CDN | cname.fun | domecdn.com |
-| 云科 | |waf.pro|
+| 云科 | dns-waf.waf.pro | waf.pro |
 | 明赋云 | mingfucdn.com | mingfucloud.com |
 | 括彩云 | kuocaidns.com | kuocaicdn.com |
 | 京东云星盾 | cloud-scdn.com | |
@@ -93,6 +93,8 @@ date: 2024-06-30 15:30:47
 **域名列表**:
 阿里云的CNAME域名分为两类,一类是`kunlun*.com`,星号一般通配两位字母,专为国内提供加速服务
 另一类是`cdngslb.com`,提供全球加速服务  
+`inittt.com`: 此域名为 ESA 服务所使用的域名，我看了一下阿里云的文档，ESA 是原来的 DCDN 升级后改名得来的，相关链接: [什么是ESA](https://www.alibabacloud.com/help/zh/edge-security-acceleration/esa/product-overview/what-is-esa) | [关于阿里云【全站加速 DCDN】名称变更为【边缘安全加速（Edge Security Acceleration）】的通知](https://help.aliyun.com/zh/edge-security-acceleration/dcdn/product-overview/notice-on-changing-the-name-of-alibaba-cloud-dcdn-to-edge-security-acceleration)
+ESA 与腾讯云的 EdgeOne 一样，都很像 Cloudflare 的产品逻辑，整合自己所有的云产品，给客户提供很简单易懂的向外提供服务的方式
 
 ### 腾讯云
 
@@ -165,8 +167,6 @@ date: 2024-06-30 15:30:47
 
 ### 金山云
 
-**介绍**
-坑货一个,不提供API的签名算法各语言的SDK
 **域名列表**:
 
 * ksyuncdn.com
@@ -208,7 +208,7 @@ date: 2024-06-30 15:30:47
 
 地址: waf.pro
 **介绍**
-新的便宜小厂,目前还在部署系统
+有证，[DP](https://xcdream.com)严选(DP给他们当过一段时间员工)
 
 ### 明赋云
 
@@ -223,15 +223,13 @@ date: 2024-06-30 15:30:47
 
 地址: kuocaicdn.com
 **介绍**
-价格与明赋云相似,但比明赋云略贵,不过有免费额度,而且可以通过bug白嫖流量
+价格与明赋云相似,但比明赋云略贵,不过有免费额度,而且可以通过bug白嫖流量,感觉老板情绪有点激动...<!--  别人在qq群里散播它的谣言,不去找qq反而去告群主所要发布谣言的人的信息,直接把群主吓得开了全员禁言  -->
 **域名列表**:
 
 * kuocaidns.com
 
 ### 京东云星盾
 
-**介绍**
-这价格真的...太贵了吧,不过京东云的节点质量确实强,在国内也有很多自建机房
 **域名列表**:
 
 * cloud-scdn.com
@@ -239,7 +237,7 @@ date: 2024-06-30 15:30:47
 ### 星域CDN
 
 **介绍**
-知名PCDN网心云的CDN,节点质量参差不齐,导致体验不咋地,典型的例子就是Bilibili的直播,什么牛鬼蛇神都能跑赚钱宝,不过价格确实便宜,不过买的量要大,不然都懒得理你
+知名PCDN网心云的CDN,节点质量参差不齐,导致体验不咋地,典型的例子就是Bilibili的直播,什么牛鬼蛇神都能跑赚钱宝
 
 ### 多吉云
 
@@ -260,7 +258,7 @@ date: 2024-06-30 15:30:47
 ### 雨云
 
 **介绍**
-自研融合CDN,也有部分自建节点,支持部分地域的内网回源,目前仍在测试中
+由于上游(白山云)突然发送停止服务告知(上午发告知，下午停止服务),目前在开发新的解决方案(换别的上游)
 **域名列表**:
 
 * raincdn.cn
@@ -372,13 +370,6 @@ https访问都不支持
 **域名列表**:
 
 * tyudns.com
-
-### PTGCDN
-
-**介绍**
-官网SSL都过期了...
-**域名列表**:
-*
 
 ### 语鹿云盾CDN
 
