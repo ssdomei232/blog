@@ -8,6 +8,12 @@ categories:
 permalink: /articles/2024/cdn-cname/index.html
 date: 2024-06-30 15:30:47
 ---
+
+{% note warning %}
+**协议声明**  
+经历多次 AI 洗稿后，此文章许可协议改为 [CC-BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans)
+{% endnote %}
+
 ## 速查表格
 
 如果你不想听我瞎叭叭,可以直接使用速查表格,如果你想了解一些详情,可以往下翻翻
