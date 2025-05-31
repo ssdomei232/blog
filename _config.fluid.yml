@@ -1104,11 +1104,11 @@ links:
   custom:
     enable: true
     content: '
-    name: mei的网络日志
-    description: 重度妄想症患者
-    domainname: mei.lv(not mmeiblog.cn)
-    favicon: https://api.mmeiblog.cn/favicon
-    <strong><a href="https://static.mmeiblog.cn/web/link-cemetery/">友链坟场</a></strong>
+    <p>name: mei的网络日志</p>
+    <p>description: 重度妄想症患者</p>
+    <p>domainname: mei.lv(not mmeiblog.cn)</p>
+    <p>favicon: https://api.mmeiblog.cn/favicon</p>
+    <p><strong><a href="https://static.mmeiblog.cn/web/link-cemetery/">友链坟场</a></strong></p>
     '
 
   # 评论插件
