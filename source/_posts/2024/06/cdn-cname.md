@@ -18,52 +18,48 @@ date: 2024-06-30 15:30:47
 
 如果你不想听我瞎叭叭,可以直接使用速查表格,如果你想了解一些详情,可以往下翻翻
 
-| 厂商 | CNAME域名 | 地址 |
-| --- | --- | --- |
-| 白山云 | qingcdn.com </br> bsclink.cn </br> trpcdn.net | baishan.com |
-| 网宿   | wsdvs.com </br> wsglb0.com </br> wscdns.com | wangsucloud.com |
-| 蓝汛   | ccgslb.com.cn | edgenext.com |
-| 帝联   | fastcdn.com | dnion.com |
-| 阿里云 | kunlun*.com(国内加速) </br> cdngslb.com(全球加速) </br> inittt.com(ESA) | aliyun.com |
-| 腾讯云 | dnsv1.com </br> tc.cdntip.com </br> spcdntip.com | cloud.tencent.com |
-| 百度云 | bdydns.com </br> jomodns.com | cloud.baidu.com |
-| 七牛云 | qiniudns.com | qiniu.com |
-| 又拍云 | aicdn.com | upyun.com |
-| 云端智度 | spdydns.com | isurecloud.net |
-| 网易云 | 163jiasu.com | sf.163.com |
-| 360云 | 360cdn.cn </br> qihucdn.com | zyun.360.cn |
-| 奇安信网战卫士 | qianxincdn.com | |
-| 亚马逊云 | cloudfront.net | |
-| Microsoft Azure | mschcdn.com | |
-| verycdn | verycdn.net | |
-| 金山云 | ksyuncdn.com </br> ks-cdn1.com | |
-| 华为云 | cdnhwc2.com </br> cdnhwcggk22.com | |
-| 失控的防御系统/日出CDN | cnmnmsl.top | scdn.io |
-| CNMCDN | svipcdn.cn | cnmcdn.cn |
-| 星穹CDN | cname.fun | domecdn.com |
-| 星极世纪 | dns-waf.waf.pro | waf.pro |
-| 明赋云 | mingfucdn.com | mingfucloud.com |
-| 括彩云 | kuocaidns.com | kuocaicdn.com |
-| 京东云星盾 | cloud-scdn.com | |
-| 星域CDN | PCDN | |
-| 多吉云 | dogedns.com | |
-| Edge one | dnse2.com | |
-| 雨云 | raincdn.cn | rainyun.com |
-| Cloudflare CN | cf-ns.com | |
-| LEDCDN | qiucname.tech | cdn.ledcdn.com |
-| 亿速云 | kunlun*.com | |
-| 未来滴 | dnss.zip | pro.dnss.zip |
-| 天翼云 | ctdns.cn | ctyun.cn |
-| 知道创宇 | jiashule.com | yunaq.com |
-| 方能CDN | fn01.vip | funnull.buzz |
-| Greypanel | greycdn.net | greypanel.com |
-| 优速盾 | dun.kim | cdnb.net |
-| 飞旭云 | vip1.waf-idc-scdn.xyz | fxdun.cn |
-| FreeCDN | freecdn.pw | freecdn.pw|
-| 级级盾 | 1idc.cc | 7gd.cn |
-| 速御安全 | tyudns.com | tyucdn.com |
-| 语鹿云盾CDN | cdnv8.cn | lucdn.cn |
-| 稳坚盾 | gn.gtm-cname.cn | wjdun.cn |
+| 厂商 | CNAME域名 | 地址 | ICP备案情况 |　公安备案情况　| ICP/ISP/CDN证情况 |
+| --- | --- | --- | --- | --- | --- |
+| 白山云 | qingcdn.com </br> bsclink.cn </br> trpcdn.net | baishan.com | 有 | 有 | A2.B1-20160192 |
+| 网宿   | wsdvs.com </br> wsglb0.com </br> wscdns.com | wangsucloud.com | 有 | 有 | A2.B1-20050405 </br> 沪B2-20030144 | 
+| 蓝汛   | ccgslb.com.cn | edgenext.com | 有 | 有 | |
+| 帝联   | fastcdn.com | dnion.com | 有 | 有 | B1-20100055 |
+| 阿里云 | kunlun*.com(国内加速) </br> cdngslb.com(全球加速) </br> inittt.com(ESA) | aliyun.com | 有 | 有 | 有 |
+| 腾讯云 | dnsv1.com </br> tc.cdntip.com </br> spcdntip.com | cloud.tencent.com | 有 | 有 | 有 |
+| 百度云 | bdydns.com </br> jomodns.com | cloud.baidu.com | 有 | 有 | 有 |
+| 七牛云 | qiniudns.com | qiniu.com | 有 | 有 | B1.B2-20160552 |
+| 又拍云 | aicdn.com | upyun.com | 有 | 有 | B1-20212420 </br> 浙B2-20220438 |
+| 云端智度 | spdydns.com | isurecloud.net | 有 | 有 | B1-20161570 </br> 京B2-20220459 |
+| 网易云 | 163jiasu.com | sf.163.com | 有 | 有 | 粤B2-20090191 </br> B1.B2-20090058 |
+| 360云 | 360cdn.cn </br> qihucdn.com | zyun.360.cn | 有 | 有 | 有 |
+| 亚马逊云 | cloudfront.net | aws.amazon.com | 无 | 无 | 无 |
+| Microsoft Azure | mschcdn.com | azure.microsoft.com | 有 | 有 | 无 |
+| verycdn | verycdn.net | api.verycdn.cn | 有 | 有 | 苏B2-20120140 </br> A2.B1-20150199 |
+| 金山云 | ksyuncdn.com </br> ks-cdn1.com | ksyun.com | 有 | 有 | A2.B1-20140153 </br> 京ICP证120829号 </br> 京B2-20180585|
+| 华为云 | cdnhwc2.com </br> cdnhwcggk22.com | huaweicloud.com | 有 | 有 | B1.B2-20200593 </br> 黔D3-20230001 |
+| 失控的防御系统/日出CDN | cnmnmsl.top | scdn.io | 有 | 有 | B1-20243664 |
+| CNMCDN | svipcdn.cn | cnmcdn.cn | 有 | 有 | B1-20231488 |
+| 星极世纪 | dns-waf.waf.pro | waf.pro | 有 | 有 | B1-20243738 </br> 川B2-20250065 |
+| 明赋云 | mingfucdn.com | mingfucloud.com | 有 | 有 | B1-20184249 </br> 陕B2-20240342 |
+| 括彩云 | kuocaidns.com | kuocaicdn.com | 有 | 有 | 沪B2-20220232 |
+| 京东云星盾 | cloud-scdn.com | jdcloud.com | 有 | 有 | 有 |
+| 星域CDN | PCDN | xycloud.com | 有 | 有 | B1-20160023 |
+| 多吉云 | dogedns.com | dogecloud.com | 有 | 有 | 湘B2-20230142 </br> B1-20231256 |
+| Edge one | dnse2.com | cloud.tencent.com | 有 | 有 | 有 |
+| 雨云 | raincdn.cn | rainyun.com | 有 | 有 | B1-20231485 |
+| Cloudflare CN | cf-ns.com | | | | |
+| LEDCDN | qiucname.tech | cdn.ledcdn.com | 无 | 无 | 无 |
+| 亿速云 | kunlun*.com | yisu.com | 有 | 有 | B1-20181529 |
+| 天翼云 | ctdns.cn | ctyun.cn | 有 | 有 | 有 |
+| 知道创宇 | jiashule.com | yunaq.com | 有 | 有 | B1-20210729 </br> B2-20200545 |
+| 方能CDN | fn01.vip | funnull.buzz | 无 | 无 | 无 |
+| Greypanel | greycdn.net | greypanel.com | 无 | 无 | 无 |
+| 优速盾 | dun.kim | cdnb.net | 有 | 有 | B1-20213618 |
+| FreeCDN | freecdn.pw | freecdn.pw | 无 | 无 | 无 |
+| 级级盾 | 1idc.cc | 7gd.cn | 有 | 有 | B1-20222867 |
+| 速御安全 | tyudns.com | tyucdn.com | 有 | 无 | 无 |
+| 语鹿云盾CDN | cdnv8.cn | lucdn.cn | 有 | 无 | 沪B2-20250375 </br> 沪B2-20250375 |
+| 稳坚盾 | gn.gtm-cname.cn | wjdun.cn | 有 | 有 | B1-20201536 |
 
 ## 详情
 
@@ -72,26 +68,12 @@ date: 2024-06-30 15:30:47
 ### 白山云
 
 **介绍**
-<www.gov.cn> 用的就是白山云,不过白山云只为企业提供加速服务
+www.gov.cn 用的就是白山云,不过白山云只为企业提供加速服务
 **域名列表**:
 
 * qingcdn.com
 * bsclink.cn
 * trpcdn.net
-
-### 网宿
-
-* wsdvs.com
-* wsglb0.com
-* wscdns.com
-
-### 蓝汛
-
-* ccgslb.com.cn
-
-### 帝联
-
-* fastcdn.com
 
 ### 阿里云
 
@@ -113,103 +95,12 @@ ESA 与腾讯云的 EdgeOne 一样，都很像 Cloudflare 的产品逻辑，整�
 * tc.cdntip.com
 * spcdntip.com
 
-### 百度云
-
-**介绍**
-百度有正经做过什么产品吗?
-**域名列表**:
-
-* bdydns.com
-* jomodns.com
-
-### 七牛云
-
-* qiniudns.com
-
-### 又拍云
-
-* aicdn.com
-
-### 云端智度
-
-* spdydns.com
-
-### 网易云
-
-**介绍**
-网易云还有这业务?
-**域名列表**:
-
-* 163jiasu.com
-
-### 360云
-
-**介绍**
-360和奇安信应该算分家了吧
-**域名列表**:
-
-* 360cdn.cn
-* qihucdn.com
-
-### 奇安信网战卫士
-
-**介绍**
-良心厂商,极少的国内免费CDN,虽然节点有点少,申请有点麻烦.
-奇安信网战卫士的免费服务已于2024年5月终止,看来做公益也很烧钱啊
-**域名列表**:
-
-* qianxincdn.com
-
-### 亚马逊云
-
-* cloudfront.net
-
-### Microsoft Azure
-
-* mschcdn.com
-
-### verycdn
-
-* verycdn.net
-
 ### 金山云
 
 **域名列表**:
 
 * ksyuncdn.com
 * ks-cdn1.com
-
-### 华为云
-
-* cdnhwc2.com
-* cdnhwcggk22.com
-
-### 失控的防御系统/日出CDN
-
-地址: scdn.io
-**介绍**
-小厂CDN,不要抱太大期待,节点全都是小鸡,1-1和2-2一大堆
-**域名列表**:
-
-* cnmnmsl.top
-
-### CNMCDN
-
-地址: cnmcdn.cn
-**介绍**
-国内有证小厂CDN,很抗揍,价格较低
-**域名列表**:
-
-* svipcdn.cn
-
-### 星穹CDN
-
-地址: domecdn.com
-**介绍**
-很便宜的CDN小厂
-**域名列表**:
-
-* cname.fun
 
 ### 星极世纪
 
@@ -234,12 +125,6 @@ ESA 与腾讯云的 EdgeOne 一样，都很像 Cloudflare 的产品逻辑，整�
 **域名列表**:
 
 * kuocaidns.com
-
-### 京东云星盾
-
-**域名列表**:
-
-* cloud-scdn.com
 
 ### 星域CDN
 
@@ -273,7 +158,7 @@ ESA 与腾讯云的 EdgeOne 一样，都很像 Cloudflare 的产品逻辑，整�
 ### Cloudflare CN
 
 **介绍**
-Cloudflare与京东云合作的CDN,价格低廉,不过质量很烂,但有消息称Cloudflare已结束与京东云的合作,转为自建节点
+Cloudflare与京东云合作的CDN,价格低廉,不过质量不太高,但有消息称Cloudflare已结束与京东云的合作,转为自建节点
 **域名列表**:
 
 * cf-ns.com
@@ -287,13 +172,6 @@ Cloudflare与京东云合作的CDN,价格低廉,不过质量很烂,但有消息�
 **域名列表**:
 
 * qiucname.tech
-
-### 未来滴
-
-地址: pro.dnss.vip
-**域名列表**:
-
-* dnss.vip
 
 ### 亿速云
 
@@ -311,14 +189,6 @@ Cloudflare与京东云合作的CDN,价格低廉,不过质量很烂,但有消息�
 
 * ctdns.cn
 
-### 知道创宇
-
-**介绍**
-我也不知道
-**域名列表**:
-
-* jiashule.com
-
 ### 方能CDN
 
 **介绍**
@@ -329,67 +199,22 @@ Cloudflare与京东云合作的CDN,价格低廉,不过质量很烂,但有消息�
 
 * fn01.vip
 
-### Greypanel 灰域CDN
+## 已经跑路/停止运营的CDN
+
+### 奇安信网战卫士
 
 **介绍**
-在itdog上打广告的小厂
+良心厂商,极少的国内免费CDN,虽然节点有点少,申请有点麻烦.
+奇安信网战卫士的免费服务已于2024年5月终止,看来做公益也很烧钱啊
 **域名列表**:
 
-* greycdn.net
+* qianxincdn.com
 
-### 优速盾
+### 星穹CDN
 
+地址: domecdn.com
 **介绍**
-...
+很便宜的CDN小厂,我们怀疑跑路的原因是站长上了大学后没空了
 **域名列表**:
 
-* dun.kim
-
-### 飞旭云
-
-**介绍**
-https访问都不支持
-**域名列表**:
-
-* vip1.waf-idc-scdn.xyz
-
-### FreeCDN
-
-**介绍**
-控制台为什么要带端口访问:(
-感觉站主是个MJJ,毕竟南非那机器一般人不会买
-**域名列表**:
-
-* freecdn.pw
-
-### 级级盾
-
-**介绍**
-有证
-**域名列表**:
-
-* 1idc.cc
-
-### 速御安全
-
-**介绍**
-有证
-**域名列表**:
-
-* tyudns.com
-
-### 语鹿云盾CDN
-
-**介绍**
-CDNfly
-**域名列表**:
-
-* cdnv8.cn
-
-### 稳坚盾
-
-**介绍**
-有证
-**域名列表**:
-
-* gn.gtm-cname.cn
+* cname.fun
