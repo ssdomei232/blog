@@ -95,13 +95,6 @@ ESA 与腾讯云的 EdgeOne 一样，都很像 Cloudflare 的产品逻辑，整�
 * tc.cdntip.com
 * spcdntip.com
 
-### 金山云
-
-**域名列表**:
-
-* ksyuncdn.com
-* ks-cdn1.com
-
 ### 星极世纪
 
 地址: waf.pro
