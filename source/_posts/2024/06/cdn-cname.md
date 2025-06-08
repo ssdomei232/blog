@@ -80,9 +80,9 @@ www.gov.cn 用的就是白山云,不过白山云只为企业提供加速服务
 **介绍**
 一夜破产CDN,如果你的钱包特别充实,阿里云绝对是最好的选择,毕竟阿里云算得上是国内唯一正经做云的厂商了  
 **域名列表**:
-阿里云的CNAME域名分为两类,一类是`kunlun*.com`,星号一般通配两位字母,专为国内提供加速服务
-另一类是`cdngslb.com`,提供全球加速服务  
-`inittt.com`: 此域名为 ESA 服务所使用的域名，我看了一下阿里云的文档，ESA 是原来的 DCDN 升级后改名得来的，相关链接: [什么是ESA](https://www.alibabacloud.com/help/zh/edge-security-acceleration/esa/product-overview/what-is-esa) | [关于阿里云【全站加速 DCDN】名称变更为【边缘安全加速（Edge Security Acceleration）】的通知](https://help.aliyun.com/zh/edge-security-acceleration/dcdn/product-overview/notice-on-changing-the-name-of-alibaba-cloud-dcdn-to-edge-security-acceleration)
+`kunlun**.com`: 专为国内提供加速服务  
+`cdngslb.com`: 提供全球加速服务  
+`inittt.com`: 此域名为 ESA 服务所使用的域名，我看了一下阿里云的文档，ESA 是原来的 DCDN 升级后改名得来的  
 ESA 与腾讯云的 EdgeOne 一样，都很像 Cloudflare 的产品逻辑，整合自己所有的云产品，给客户提供很简单易懂的向外提供服务的方式  
 `aliyunddos10**.com`: 阿里云DDOS防御的 CNAME 域名,从 `aliyunddos1000.com`　注册到了 `aliyunddos1032.com`
 
