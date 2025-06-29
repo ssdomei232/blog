@@ -47,7 +47,7 @@ date: 2024-06-30 15:30:47
 | 星域CDN | PCDN | xycloud.com | 有 | 有 | B1-20160023 |
 | 多吉云 | dogedns.com | dogecloud.com | 有 | 有 | 湘B2-20230142 </br> B1-20231256 |
 | Edge one(中国站) | dnse2.com(全球加速) </br> dnse5.com(全球不含大陆加速) | cloud.tencent.com | 有 | 有 | 有 |
-| Edge one(国际站) | dnse3.com(全球不含大陆加速) | edgeone.ai | 无 | 无 | 无 |
+| Edge one(国际站) | dnse3.com(全球不含大陆加速) </br> edgeone.app(pages-全球不含大陆) </br> edgeone.site(pages-全球) </br> zh-cn.edgeone.site(pages-大陆)| edgeone.ai | 无 | 无 | 无 |
 | 雨云 | raincdn.cn | rainyun.com | 有 | 有 | B1-20231485 |
 | Cloudflare CN | cf-ns.com | | | | |
 | LEDCDN | qiucname.tech | cdn.ledcdn.com | 无 | 无 | 无 |
@@ -148,6 +148,9 @@ Edge one 目前国内站与国际站有较大区分，跟随阿里云国际站�
 * dnse3.com(全球不含大陆加速-国内站)
 * dnse4.com(用途暂不明确，等待测试)
 * dnse5.com(全球不含大陆加速-国际站)
+* edgeone.app(pages服务-全球不含大陆)
+* edgeone.site(pages服务-全球)
+* zh-cn.edgeone.site(pages服务-大陆)
 
 ### 雨云
 
