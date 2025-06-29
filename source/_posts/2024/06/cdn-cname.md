@@ -20,8 +20,9 @@ date: 2024-06-30 15:30:47
 
 | 厂商 | CNAME域名 | 地址 | ICP备案情况 |　公安备案情况　| ICP/ISP/CDN证情况 |
 | --- | --- | --- | --- | --- | --- |
-| 白山云 | qingcdn.com </br> bsclink.cn </br> trpcdn.net | baishan.com | 有 | 有 | A2.B1-20160192 |
-| 网宿   | wsdvs.com </br> wsglb0.com </br> wscdns.com | wangsucloud.com | 有 | 有 | A2.B1-20050405 </br> 沪B2-20030144 | 
+| 白山云 | qingcdn.com </br> bsclink.cn </br> trpcdn.net </br> bsgslb.com | baishan.com | 有 | 有 | A2.B1-20160192 |
+| 网宿   | wsdvs.com </br> wsglb0.com </br> wscdns.com　</br> cdn30.com | wangsucloud.com | 有 | 有 | A2.B1-20050405 </br> 沪B2-20030144 |
+| 滨纷云 | dogecast.com | bitiful.com | 有 | 有 | 无 |
 | 蓝汛   | ccgslb.com.cn | edgenext.com | 有 | 有 | |
 | 帝联   | fastcdn.com | dnion.com | 有 | 有 | B1-20100055 |
 | 阿里云 | kunlun*.com(国内加速) </br> cdngslb.com(全球加速) </br> inittt.com(ESA) </br> aliyunddos10**.com(DDOS防御) | aliyun.com | 有 | 有 | 有 |
@@ -35,8 +36,8 @@ date: 2024-06-30 15:30:47
 | 亚马逊云 | cloudfront.net | aws.amazon.com | 无 | 无 | 无 |
 | Microsoft Azure | mschcdn.com | azure.microsoft.com | 有 | 有 | 无 |
 | verycdn | verycdn.net | api.verycdn.cn | 有 | 有 | 苏B2-20120140 </br> A2.B1-20150199 |
-| 金山云 | ksyuncdn.com </br> ks-cdn1.com | ksyun.com | 有 | 有 | A2.B1-20140153 </br> 京ICP证120829号 </br> 京B2-20180585|
-| 华为云 | cdnhwc2.com </br> cdnhwcggk22.com | huaweicloud.com | 有 | 有 | B1.B2-20200593 </br> 黔D3-20230001 |
+| 金山云 | ksyuncdn.com </br> ks-cdn1.com </br> ks-cdn.com | ksyun.com | 有 | 有 | A2.B1-20140153 </br> 京ICP证120829号 </br> 京B2-20180585|
+| 华为云 | cdnhwc2.com </br> cdnhwcggk22.com </br> cdnhwcaip122.cn | huaweicloud.com | 有 | 有 | B1.B2-20200593 </br> 黔D3-20230001 |
 | 失控的防御系统/日出CDN | cnmnmsl.top | scdn.io | 有 | 有 | B1-20243664 |
 | CNMCDN | svipcdn.cn | cnmcdn.cn | 有 | 有 | B1-20231488 |
 | 星极世纪 | dns-waf.waf.pro | waf.pro | 有 | 有 | B1-20243738 </br> 川B2-20250065 |
@@ -45,7 +46,8 @@ date: 2024-06-30 15:30:47
 | 京东云星盾 | cloud-scdn.com | jdcloud.com | 有 | 有 | 有 |
 | 星域CDN | PCDN | xycloud.com | 有 | 有 | B1-20160023 |
 | 多吉云 | dogedns.com | dogecloud.com | 有 | 有 | 湘B2-20230142 </br> B1-20231256 |
-| Edge one | dnse2.com | cloud.tencent.com | 有 | 有 | 有 |
+| Edge one(中国站) | dnse2.com(全球加速) </br> dnse5.com(全球不含大陆加速) | cloud.tencent.com | 有 | 有 | 有 |
+| Edge one(国际站) | dnse3.com(全球不含大陆加速) | edgeone.ai | 无 | 无 | 无 |
 | 雨云 | raincdn.cn | rainyun.com | 有 | 有 | B1-20231485 |
 | Cloudflare CN | cf-ns.com | | | | |
 | LEDCDN | qiucname.tech | cdn.ledcdn.com | 无 | 无 | 无 |
@@ -60,6 +62,7 @@ date: 2024-06-30 15:30:47
 | 速御安全 | tyudns.com | tyucdn.com | 有 | 无 | 无 |
 | 语鹿云盾CDN | cdnv8.cn | lucdn.cn | 有 | 无 | 沪B2-20250375 </br> 沪B2-20250375 |
 | 稳坚盾 | gn.gtm-cname.cn | wjdun.cn | 有 | 有 | B1-20201536 |
+| 云盾 | hwwsdns.cn | yundun.com | 有 | 有 | B1-20170465 |
 
 ## 详情
 
@@ -68,7 +71,7 @@ date: 2024-06-30 15:30:47
 ### 白山云
 
 **介绍**
-www.gov.cn 用的就是白山云,不过白山云只为企业提供加速服务
+`www.gov.cn` 用的就是白山云,不过白山云只为企业提供加速服务
 **域名列表**:
 
 * qingcdn.com
@@ -136,10 +139,15 @@ ESA 与腾讯云的 EdgeOne 一样，都很像 Cloudflare 的产品逻辑，整�
 ### Edge one
 
 **介绍**
-腾讯云边缘加速网络,类似于Cloudflare,价格便宜
+腾讯云边缘加速网络,类似于Cloudflare,价格便宜  
+Edge one 目前国内站与国际站有较大区分，跟随阿里云国际站的脚步，edge one 国际站也退出了免费套餐，不过特别的是**免费版有大陆加速节点**  
 **域名列表**:
 
-* dnse2.com
+* dnse1.com(用途暂不明确，等待测试)
+* dnse2.com(全球加速-国内站)
+* dnse3.com(全球不含大陆加速-国内站)
+* dnse4.com(用途暂不明确，等待测试)
+* dnse5.com(全球不含大陆加速-国际站)
 
 ### 雨云
 
@@ -212,3 +220,7 @@ Cloudflare与京东云合作的CDN,价格低廉,不过质量不太高,但有消�
 **域名列表**:
 
 * cname.fun
+
+## 特别鸣谢
+
+* [@yunsen2025](https://github.com/yunsen2025): 疯狂催更以及部分厂商信息
