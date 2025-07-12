@@ -63,6 +63,7 @@ date: 2024-06-30 15:30:47
 | 语鹿云盾CDN | cdnv8.cn | lucdn.cn | 有 | 无 | 沪B2-20250375 </br> 沪B2-20250375 |
 | 稳坚盾 | gn.gtm-cname.cn | wjdun.cn | 有 | 有 | B1-20201536 |
 | 云盾 | hwwsdns.cn | yundun.com | 有 | 有 | B1-20170465 |
+| LightCDN | litecdncname.com | lightcdn.com | 有 | 有 | B1-20170465 |
 
 ## 详情
 
@@ -226,4 +227,4 @@ Cloudflare与京东云合作的CDN,价格低廉,不过质量不太高,但有消�
 
 ## 特别鸣谢
 
-* [@yunsen2025](https://github.com/yunsen2025): 疯狂催更以及部分厂商信息
+* [@yunsen2025](https://github.com/yunsen2025): 疯狂催更以及部分厂商信息(TA的转载: [Yunsen‘s blog](https://www.yunsen2025.top/017-cdn-cname/))
