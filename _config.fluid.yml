@@ -997,7 +997,6 @@ about:
     - { class: "iconfont icon-email", link: "mailto:i@mei.lv", tip: "e-mail" }
     - { class: "iconfont icon-QQ", link: "https://qm.qq.com/q/5Vk6Y4kipG", tip: "qq" }
     - { class: "iconfont icon-DJI", link: "https://www.skypixel.com/users/djiuser-o6adwwaopzlp", tip: "天空之城" }
-    - { class: "iconfont icon-telegram", link: "https://t.me/linuxcat_mei", tip: "telegram" }
 
 
 
