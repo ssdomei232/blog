@@ -5,7 +5,7 @@
 # Site
 title: 一只肥猫的笔记
 subtitle: '一只肥猫的笔记'
-description: '聊聊技术，玩点摄影 - https://mmeiblog.cn'
+description: '聊聊技术，玩点摄影 - https://mei.lv'
 keywords: 一只肥猫的笔记,mei的网络日志,mei,技术,meiのblog,云,云原生,云服务,GO,sql,programmer,programming,linux,摄影
 author: mei
 language: zh-CN
@@ -13,7 +13,7 @@ timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://mmeiblog.cn
+url: https://mei.lv
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
