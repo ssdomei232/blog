@@ -3,10 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 一只肥猫的笔记
-subtitle: '一只肥猫的笔记'
+title: mei的网络日志
+subtitle: 'mei的网络日志'
 description: '聊聊技术，玩点摄影 - https://mei.lv'
-keywords: 一只肥猫的笔记,mei的网络日志,mei,技术,meiのblog,云,云原生,云服务,GO,sql,programmer,programming,linux,摄影
+keywords: mei的网络日志,mei,技术,meiのblog,云,云原生,云服务,GO,sql,programmer,programming,linux,摄影
 author: mei
 language: zh-CN
 timezone: 'Asia/Shanghai'
