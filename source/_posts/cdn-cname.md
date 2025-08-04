@@ -29,7 +29,7 @@ date: 2024-06-30 15:30:47
 | 滨纷云 | dogecast.com | bitiful.com | 有 | 有 | 无 |
 | 蓝汛   | ccgslb.com.cn | edgenext.com | 有 | 有 | |
 | 帝联   | fastcdn.com | dnion.com | 有 | 有 | B1-20100055 |
-| 阿里云 | kunlun*.com(国内加速) </br> cdngslb.com(全球加速) </br> inittt.com(ESA) </br> initbb.com(ESA全球加速) </br> aliyunddos10**.com(DDOS防御) | aliyun.com | 有 | 有 | 有 |
+| 阿里云 | kunlun*.com(国内加速) </br> cdngslb.com(全球加速) </br> inittt.com(ESA) </br> init**.com(ESA全球加速) </br> aliyunddos10**.com(DDOS防御) | aliyun.com | 有 | 有 | 有 |
 | 腾讯云 | dnsv1.com </br> tc.cdntip.com </br> spcdntip.com | cloud.tencent.com | 有 | 有 | 有 |
 | 百度云 | bdydns.com </br> jomodns.com | cloud.baidu.com | 有 | 有 | 有 |
 | 七牛云 | qiniudns.com | qiniu.com | 有 | 有 | B1.B2-20160552 |
@@ -94,7 +94,7 @@ date: 2024-06-30 15:30:47
 `cdngslb.com`: 提供全球加速服务  
 `inittt.com`: 此域名为 ESA 服务所使用的域名，我看了一下阿里云的文档，ESA 是原来的 DCDN 升级后改名得来的  
 ESA 与腾讯云的 EdgeOne 一样，都很像 Cloudflare 的产品逻辑，整合自己所有的云产品，给客户提供很简单易懂的向外提供服务的方式  
-`initbb.com`: ESA全球加速  
+`init**.com`: ESA全球加速,阿里云注册了一堆这种格式的域名，也不知道用没用  
 `aliyunddos10**.com`: 阿里云DDOS防御的 CNAME 域名,从 `aliyunddos1000.com`　注册到了 `aliyunddos1032.com`
 
 ### 腾讯云
