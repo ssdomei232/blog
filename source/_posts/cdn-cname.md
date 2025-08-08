@@ -69,7 +69,7 @@ date: 2024-06-30 15:30:47
 | 云盾 | hwwsdns.cn | yundun.com | 有 | 有 | B1-20170465 |
 | LightCDN | litecdncname.com | lightcdn.com | 有 | 有 | B1-20170465 |
 | 亿信互联 | ens4.com | qiezic.com | 有 | 有 | B1-20235945 |
-| 亿信互联 | 743forever.com | szhdy.com | 有 | 有 | B1-20242378 |
+| 狐蒂云 | 743forever.com | szhdy.com | 有 | 有 | B1-20242378 |
 
 ## 详情
 
