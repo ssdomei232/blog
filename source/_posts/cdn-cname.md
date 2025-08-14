@@ -48,7 +48,7 @@ sticky: 99
 | 星极世纪 | dns-waf.waf.pro | waf.pro | 有 | 有 | B1-20243738 </br> 川B2-20250065 |
 | 明赋云 | mingfucdn.com | mingfucloud.com | 有 | 有 | B1-20184249 </br> 陕B2-20240342 |
 | 括彩云 | kuocaidns.com | kuocaicdn.com | 有 | 有 | 沪B2-20220232 |
-| 京东云星盾 | cloud-scdn.com | jdcloud.com | 有 | 有 | 有 |
+| 京东云星盾 | jcloud-cdn.com </br> cloud-scdn.com | jdcloud.com | 有 | 有 | 有 |
 | 星域CDN | PCDN | xycloud.com | 有 | 有 | B1-20160023 |
 | 多吉云 | dogedns.com | dogecloud.com | 有 | 有 | 湘B2-20230142 </br> B1-20231256 |
 | Edge one(中国站) | dnse0.com(全球) </br> dnse1.com(全球) </br> dnse2.com(全球) </br> dnse5.com(全球不含大陆) | cloud.tencent.com | 有 | 有 | 有 |
