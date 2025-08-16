@@ -5,6 +5,8 @@ tags:
 - 游记
 categories: 
 - 旅游
+index_img: /img/2025/chongqing-week/index.jpg
+banner_img: /img/2025/chongqing-week/index.jpg
 permalink: /articles/2025/chongqing-week.html
 date: 2025-08-16 20:24:12
 ---
