@@ -30,7 +30,7 @@ sticky: 99
 | 滨纷云 | dogecast.com | bitiful.com | 有 | 有 | 无 |
 | 蓝汛   | ccgslb.com.cn | edgenext.com | 有 | 有 | |
 | 帝联   | fastcdn.com | dnion.com | 有 | 有 | B1-20100055 |
-| 阿里云 | kunlun*.com(国内加速) </br> cdngslb.com(全球加速) </br> inittt.com(ESA) </br> init**.com(ESA全球加速) </br> aliyunddos10**.com(DDOS防御) | aliyun.com | 有 | 有 | 有 |
+| 阿里云 | kunlun**.com(国内加速) </br> cdngslb.com(全球加速) </br> inittt.com(ESA) </br> init**.com(ESA全球加速) </br> aliyunddos10**.com(DDOS防御) | aliyun.com | 有 | 有 | 有 |
 | 腾讯云 | dnsv1.com </br> tc.cdntip.com </br> spcdntip.com | cloud.tencent.com | 有 | 有 | 有 |
 | 百度云 | bdydns.com </br> jomodns.com | cloud.baidu.com | 有 | 有 | 有 |
 | 七牛云 | qiniudns.com | qiniu.com | 有 | 有 | B1.B2-20160552 |
@@ -65,7 +65,7 @@ sticky: 99
 | FreeCDN | freecdn.pw | freecdn.pw | 无 | 无 | 无 |
 | 级级盾 | 1idc.cc | 7gd.cn | 有 | 有 | B1-20222867 |
 | 速御安全 | tyudns.com | tyucdn.com | 有 | 无 | 无 |
-| 语鹿云盾CDN | cdnv8.cn | lucdn.cn | 有 | 无 | 沪B2-20250375 </br> 沪B2-20250375 |
+| 语鹿云盾CDN | cdnv8.cn(停止使用) </br> luvipcdn.cn | lucdn.cn | 有 | 无 | 沪B2-20250375 </br> 沪B2-20250375 |
 | 稳坚盾 | gn.gtm-cname.cn | wjdun.cn | 有 | 有 | B1-20201536 |
 | 云盾 | hwwsdns.cn | yundun.com | 有 | 有 | B1-20170465 |
 | LightCDN | litecdncname.com | lightcdn.com | 有 | 有 | B1-20170465 |
@@ -88,8 +88,6 @@ sticky: 99
 
 ### 阿里云
 
-**介绍**
-一夜破产CDN,如果你的钱包特别充实,阿里云绝对是最好的选择,毕竟阿里云算得上是国内唯一正经做云的厂商了  
 **域名列表**:
 `kunlun**.com`: 专为国内提供加速服务  
 `cdngslb.com`: 提供全球加速服务  
@@ -97,16 +95,6 @@ sticky: 99
 ESA 与腾讯云的 EdgeOne 一样，都很像 Cloudflare 的产品逻辑，整合自己所有的云产品，给客户提供很简单易懂的向外提供服务的方式  
 `init**.com`: ESA全球加速,阿里云注册了一堆这种格式的域名，也不知道用没用  
 `aliyunddos10**.com`: 阿里云DDOS防御的 CNAME 域名,从 `aliyunddos1000.com`　注册到了 `aliyunddos1032.com`
-
-### 腾讯云
-
-**介绍**
-对于个人来说,小量使用腾讯云绝对称得上是物美价廉,不过也有破产风险
-**域名列表**:
-
-* dnsv1.com
-* tc.cdntip.com
-* spcdntip.com
 
 ### 星极世纪
 
