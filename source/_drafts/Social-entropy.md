@@ -1,5 +1,5 @@
 ---
-title: 社会熵平衡
+title: 社会熵
 tags: 
 - 
 categories: 

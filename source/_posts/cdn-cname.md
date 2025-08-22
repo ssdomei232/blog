@@ -26,7 +26,7 @@ sticky: 99
 | 厂商 | CNAME域名 | 地址 | ICP备案情况 |　公安备案情况　| ICP/ISP/CDN证情况 |
 | --- | --- | --- | --- | --- | --- |
 | 白山云 | qingcdn.com </br> bsclink.cn </br> trpcdn.net </br> bsgslb.com | baishan.com | 有 | 有 | A2.B1-20160192 |
-| 网宿   | wsdvs.com </br> wsglb0.com </br> wscdns.com　</br> cdn30.com | wangsucloud.com | 有 | 有 | A2.B1-20050405 </br> 沪B2-20030144 |
+| 网宿   | wsdvs.com </br> wsglb0.com </br> wscdns.com　</br> cdn30.com </br> wswebpic.com| wangsucloud.com | 有 | 有 | A2.B1-20050405 </br> 沪B2-20030144 |
 | 滨纷云 | dogecast.com | bitiful.com | 有 | 有 | 无 |
 | 蓝汛   | ccgslb.com.cn | edgenext.com | 有 | 有 | |
 | 帝联   | fastcdn.com | dnion.com | 有 | 有 | B1-20100055 |
@@ -55,7 +55,7 @@ sticky: 99
 | Edge one(国际站) | dnse3.com(全球不含大陆) </br> dnsoe2.com(pages服务-全球) </br> dnsoe3.com(pages服务-全球不含大陆)| edgeone.ai | 无 | 无 | 无 |
 | 雨云 | raincdn.cn | rainyun.com | 有 | 有 | B1-20231485 |
 | Cloudflare CN | cf-ns.com | | | | |
-| LEDCDN | qiucname.tech | cdn.ledcdn.com | 无 | 无 | 无 |
+| 𝙌𝙞𝙪𝙙𝙪𝙣 𝘾𝘿𝙉 | qiucname.tech </br> oicdn.cn | `www.scdn.koxiuqiu.cc` | 有(疑似代备案) | 无 | 无 |
 | 亿速云 | kunlun*.com | yisu.com | 有 | 有 | B1-20181529 |
 | 天翼云 | ctdns.cn | ctyun.cn | 有 | 有 | 有 |
 | 知道创宇 | jiashule.com | yunaq.com | 有 | 有 | B1-20210729 </br> B2-20200545 |
@@ -71,6 +71,7 @@ sticky: 99
 | LightCDN | litecdncname.com | lightcdn.com | 有 | 有 | B1-20170465 |
 | 亿信互联 | ens4.com | qiezic.com | 有 | 有 | B1-20235945 |
 | 狐蒂云 | 743forever.com | szhdy.com | 有 | 有 | B1-20242378 |
+| spaceship cdn | ~ | supersonic.ai | 无 | 无 | 无 |
 
 ## 详情
 
@@ -165,15 +166,16 @@ Cloudflare与京东云合作的CDN,价格低廉,不过质量不太高,但有消�
 
 * cf-ns.com
 
-### LEDCDN
+### 𝙌𝙞𝙪𝙙𝙪𝙣 𝘾𝘿𝙉
 
-地址: cdn.ledcdn.com
+地址: `www.scdn.koxiuqiu.cc`(疑似使用代备案服务)
 **介绍**
 原来的 Qui CDN
 为希望优化大陆访问的个人站长提供公益 CDN
 **域名列表**:
 
 * qiucname.tech
+* oicdn.cn(疑似使用代备案服务)
 
 ### 亿速云
 
