@@ -72,6 +72,7 @@ sticky: 99
 | 亿信互联 | ens4.com | qiezic.com | 有 | 有 | B1-20235945 |
 | 狐蒂云 | 743forever.com | szhdy.com | 有 | 有 | B1-20242378 |
 | spaceship cdn | supersonic.ai | spaceship.com | 无 | 无 | 无 |
+| 浪浪云 | langcdn.top </br> llyvps.top | langlangy.cn | 有 | 有 | B1-20253161 |
 
 ## 详情
 
