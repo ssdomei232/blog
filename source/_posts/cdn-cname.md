@@ -71,7 +71,7 @@ sticky: 99
 | LightCDN | litecdncname.com | lightcdn.com | 有 | 有 | B1-20170465 |
 | 亿信互联 | ens4.com | qiezic.com | 有 | 有 | B1-20235945 |
 | 狐蒂云 | 743forever.com | szhdy.com | 有 | 有 | B1-20242378 |
-| spaceship cdn | ~ | supersonic.ai | 无 | 无 | 无 |
+| spaceship cdn | supersonic.ai | spaceship.com | 无 | 无 | 无 |
 
 ## 详情
 
