@@ -73,6 +73,7 @@ sticky: 99
 | 狐蒂云 | 743forever.com | szhdy.com | 有 | 有 | B1-20242378 |
 | spaceship cdn | supersonic.ai | spaceship.com | 无 | 无 | 无 |
 | 浪浪云 | langcdn.top </br> llyvps.top | langlangy.cn | 有 | 有 | B1-20253161 |
+| 嘿嘿CDN | asiaheidns.cn | cdn.munianxi.cn | 有 | 无 | 无 |
 
 ## 详情
 
