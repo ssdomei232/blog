@@ -5,7 +5,7 @@ tags:
 - 中国教育
 categories: 
 - 社会熵
-permalink: /articles/202５/china-edu.html
+permalink: /articles/2025/china-edu.html
 date: 2025-08-30 08:23:48
 ---
 

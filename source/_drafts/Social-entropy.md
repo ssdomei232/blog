@@ -4,7 +4,7 @@ tags:
 - 社会熵
 categories: 
 - 社会熵
-permalink: /articles/202５/Social-entropy.html
+permalink: /articles/2025/Social-entropy.html
 date: 2025-08-30 10:48:59
 ---
 
