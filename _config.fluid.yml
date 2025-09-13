@@ -1099,6 +1099,12 @@ links:
         link: "https://www.bqiu.top",
         avatar: "https://qq-avatar.bqiu.ru/avatar"
       }
+    - {
+        title: "LeonXieの小窝",
+        intro: "保持热爱，奔赴山海！",
+        link: "https://www.leonxie.cn",
+        avatar: "https://www.leonxie.cn/upload/avatar.jpg"
+      }
 
   # 当成员头像加载失败时，替换为指定图片
   # When the member avatar fails to load, replace the specified image
