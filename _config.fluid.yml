@@ -1049,25 +1049,19 @@ links:
       title: "风屿岛",
       intro: "不知名海域的知名岛屿",
       link: "https://www.biliwind.com",
-      avatar: "https://www.biliwind.com/favicon.ico"
-    }
-    - {
-      title: "中二病晚期の物語",
-      intro: "一只狐狸敲出的一个奇迹",
-      link: "https://imfurry.com",
-      avatar: "https://cdn-imfurry.imfurry.com/avatar/zebwqFurryAvatar.png"
+      avatar: "https://www.biliwind.com/wp-content/uploads/2024/09/cropped-favicon-32x32.png"
     }
     - {
       title: "卿辞",
       intro: "落叶他乡树,寒灯独夜人",
       link: "http://myself.loveqingci.top/",
-      avatar: "https://myself.loveqingci.top/assets/img/logo.jpg"
+      avatar: "https://static.mmeiblog.cn/img/qingci.jpg"
     }
     - {
       title: "TaylorAndTony",
       intro: "Tech otakus save the world!",
       link: "https://TaylorAndTony.github.io",
-      avatar: "https://kkgithub.com/favicon.ico"
+      avatar: "https://avatars.githubusercontent.com/u/67622115?v=4"
     }
     - {
       title: "Zeruns's Blog",
@@ -1115,6 +1109,7 @@ links:
   custom:
     enable: true
     content: '
+    <p>对于过长时间不在线(3个月)的友链，会移至下方的友链坟场，如过你站复活了，请邮件联系我帮你复活:)</p>
     <p>name: mei的网络日志</p>
     <p>description: 重度妄想症患者</p>
     <p>domainname: mei.lv(not mmeiblog.cn)</p>
