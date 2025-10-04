@@ -72,6 +72,17 @@ jobs:
         run: chmod +x script/update.sh && ./script/update.sh
 ```
 
+{% note warning %}
+**警告:**
+如果你使用gitea runner的docker镜像来部署runner，请把构架命令改为:
+
+```bash
+CGO_ENABLED=0 GOOS=linux GOARCH=amd64 go build -o main
+```
+
+因为在alpine上构建时会在 ELF 头上带上`musl`的运行库，这会导致构建出来的程序无法跑在没有安装`musl`运行库的系统中(即使你在编译时使用了`CGO_ENABLE=0`)
+{% endnote %}
+
 ### 4. 创建运行环境
 
 先创建一个应用目录:`mkdir /opt/apps/your-app-name`,应用名称自己替换为上一步中的`APP_NAME`
