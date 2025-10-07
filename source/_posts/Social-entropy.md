@@ -1,5 +1,5 @@
 ---
-title: WIP: 社会熵 —— 宇宙最后的真相
+title: WIP： 社会熵 —— 宇宙最后的真相
 tags: 
 - 社会熵
 categories: 
