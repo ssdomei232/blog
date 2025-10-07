@@ -5,8 +5,9 @@ tags:
 - linux
 - Gitea
 - 1Panel
+- Go
 categories: 
-- Linux
+- Go
 index_img: /img/2025/gitea-actions-1panel-go/actions.png
 banner_img: /img/2025/gitea-actions-1panel-go/actions.png
 permalink: /articles/2025/gitea-actions-1panel-go.html
