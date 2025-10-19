@@ -106,3 +106,5 @@ wait...
 [^2]: [熵的社会学意义](https://ruanyifeng.com/blog/2013/04/entropy.html)
 [^3]: [Population Density and Social Pathology](https://gwern.net/doc/sociology/1962-calhoun.pdf)
 [^4]: [“老鼠乌托邦”——惊人的实验，令人沉默的沉思](https://zhuanlan.zhihu.com/p/328029286)
+[^5]: [Entropy and the City: Origins, trajectories and explorations of the concept in urban science](https://arxiv.org/abs/2403.15199)
+[^6]: [Escaping the Laboratory: The Rodent Experiments of John B. Calhoun & Their Cultural Influence](https://eprints.lse.ac.uk/22514/1/2308Ramadams.pdf)
