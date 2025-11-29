@@ -1070,10 +1070,10 @@ links:
       avatar: "https://f.mmeiblog.cn/b/https://blog.zeruns.tech/tx.jpg "
     }
     - {
-      title: "DP次元美化",
-      intro: "二次元美化技术交流社区",
+      title: "星尘幻梦",
+      intro: "Re:二次元综合内容服务网站",
       link: "https://re.xcdream.com/",
-      avatar: "https://f.mmeiblog.cn/b/https://dl.xcdream.com/2025/01/20250106043320606.png?imageMogr2/crop/60x60/gravity/centers"
+      avatar: "https://f.mmeiblog.cn/b/https://re.xcdream.com/favicon.ico"
     }
     - {
         title: "Pinpe 的云端",
@@ -1103,7 +1103,7 @@ links:
         title: "小原blog",
         intro: "专注于技术实践与学习资源的个人博客",
         link: "https://blog.meowhead.cn/",
-        avatar: "https://f.mmeiblog.cn/b/https://blog.meowhead.cn/upload/icon_ya.png"
+        avatar: "https://blog.meowhead.cn/upload/icon_ya.png"
       }
 
   # 当成员头像加载失败时，替换为指定图片
