@@ -1043,67 +1043,67 @@ links:
       title: "Linuxcat",
       intro: "Linux中国社区归档站",
       link: "https://linuxcat.top/",
-      avatar: "https://linuxcat.top/favicon.ico"
+      avatar: "https://f.mmeiblog.cn/b/https://linuxcat.top/favicon.ico"
     }
     - {
       title: "风屿岛",
       intro: "不知名海域的知名岛屿",
       link: "https://www.biliwind.com",
-      avatar: "https://www.biliwind.com/wp-content/uploads/2024/09/cropped-favicon-32x32.png"
+      avatar: "https://f.mmeiblog.cn/b/https://www.biliwind.com/wp-content/uploads/2024/09/cropped-favicon-32x32.png"
     }
     - {
       title: "卿辞",
       intro: "落叶他乡树,寒灯独夜人",
       link: "http://myself.loveqingci.top/",
-      avatar: "https://static.mmeiblog.cn/img/qingci.jpg"
+      avatar: "https://f.mmeiblog.cn/b/https://myself.loveqingci.top/assets/img/logo.jpg"
     }
     - {
       title: "TaylorAndTony",
       intro: "Tech otakus save the world!",
       link: "https://TaylorAndTony.github.io",
-      avatar: "https://avatars.githubusercontent.com/u/67622115?v=4"
+      avatar: "https://f.mmeiblog.cn/b/https://avatars.githubusercontent.com/u/67622115?v=4"
     }
     - {
       title: "Zeruns's Blog",
       intro: "爱折腾软件和硬件的技术宅",
       link: "https://blog.zeruns.tech",
-      avatar: "https://blog.zeruns.tech/tx.jpg "
+      avatar: "https://f.mmeiblog.cn/b/https://blog.zeruns.tech/tx.jpg "
     }
     - {
       title: "DP次元美化",
       intro: "二次元美化技术交流社区",
       link: "https://re.xcdream.com/",
-      avatar: "https://dl.xcdream.com/2025/01/20250106043320606.png?imageMogr2/crop/60x60/gravity/centers"
+      avatar: "https://f.mmeiblog.cn/b/https://dl.xcdream.com/2025/01/20250106043320606.png?imageMogr2/crop/60x60/gravity/centers"
     }
     - {
         title: "Pinpe 的云端",
         intro: "一个属于自己的云朵。",
         link: "https://pinpe.top",
-        avatar: "https://pinpe.top/head.jpg"
+        avatar: "https://f.mmeiblog.cn/b/https://pinpe.top/head.jpg"
       }
     - {
         title: "yunsen2025 的小窝",
         intro: "计算机爱好者",
         link: "https://www.yunsen2025.top",
-        avatar: "https://img.alicdn.com/bao/uploaded/i4/O1CN01TWOpM42DSyY5nC0hM_!!0-mtopupload.jpg"
+        avatar: "https://f.mmeiblog.cn/b/https://img.alicdn.com/bao/uploaded/i4/O1CN01TWOpM42DSyY5nC0hM_!!0-mtopupload.jpg"
       }
     - {
         title: "雪球Bqiu的小破站",
         intro: "今天吃啥，明天干点啥q(≧▽≦q)",
         link: "https://www.bqiu.top",
-        avatar: "https://qq-avatar.bqiu.ru/avatar"
+        avatar: "https://f.mmeiblog.cn/b/https://qq-avatar.bqiu.ru/avatar"
       }
     - {
         title: "LeonXieの小窝",
         intro: "保持热爱，奔赴山海！",
         link: "https://www.leonxie.cn",
-        avatar: "https://www.leonxie.cn/upload/avatar.jpg"
+        avatar: "https://f.mmeiblog.cn/b/https://www.leonxie.cn/upload/avatar.jpg"
       }
     - {
         title: "小原blog",
         intro: "专注于技术实践与学习资源的个人博客",
         link: "https://blog.meowhead.cn/",
-        avatar: "https://blog.meowhead.cn/upload/icon_ya.png"
+        avatar: "https://f.mmeiblog.cn/b/https://blog.meowhead.cn/upload/icon_ya.png"
       }
 
   # 当成员头像加载失败时，替换为指定图片
