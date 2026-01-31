@@ -7,7 +7,6 @@ categories:
 - 工具
 permalink: /articles/2024/cdn-cname/index.html
 date: 2024-06-30 15:30:47
-sticky: 97
 ---
 
 {% note warning %}
