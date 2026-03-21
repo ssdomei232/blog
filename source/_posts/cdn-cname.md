@@ -73,10 +73,17 @@ date: 2024-06-30 15:30:47
 | spaceship cdn | supersonic.ai | spaceship.com | 无 | 无 | 无 |
 | 浪浪云 | langcdn.top </br> llyvps.top | langlangy.cn | 有 | 有 | B1-20253161 |
 | 嘿嘿CDN | asiaheidns.cn | cdn.munianxi.cn | 有 | 无 | 无 |
+| CDN1(灰产套壳) | cdn1.ai | cdn1.ai | 无 | 无 | 无 |
 
 ## 详情
 
 商业机密 /doge
+
+### CON1
+
+**该厂商有极大可能为先前臭名昭著的FUNNULL（全称 Funnull Technology Inc.，中文又称方能CDN或方能科技）的套皮厂商,被美国政府明确定性为重大网络犯罪支持者**  
+请抵制此灰产厂商（推荐在您的屏蔽规则中添加相关地址）
+参考文章: [围剿FUNNULL黑产：深度揭秘RingH23与MacCMS投毒攻击链](https://blog.xlab.qianxin.com/exposing-funnull-how-ringh23-maccms-are-poisoning-the-web/)
 
 ### 白山云
 
