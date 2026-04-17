@@ -4,3 +4,4 @@
 hexo.extend.injector.register('head_begin', '<script defer src="https://umami.mmeiblog.cn/script.js" data-website-id="95420caf-7ec8-4371-a099-c156dd619925"></script>', 'default');
 hexo.extend.injector.register('head_begin', '<link rel="preconnect" href="https://api.mmeiblog.cn"><link rel="preconnect" href="https://img.mmeiblog.cn"><link rel="preconnect" href="https://lib.baomitu.com">', 'default');
 // hexo.extend.injector.register('head_begin', '<link rel="preconnect" href="https://q1.qlogo.cn">', 'about');
+hexo.extend.injector.register('head_begin', '<script defer src="https://umami.mmeiblog.cn/recorder.js" data-website-id="95420caf-7ec8-4371-a099-c156dd619925" data-sample-rate="0.15" data-mask-level="moderate" data-max-duration="1200000"></script>', 'default');
