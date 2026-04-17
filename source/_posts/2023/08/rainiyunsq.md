@@ -15,7 +15,7 @@ date: 2023-08-11 22:27:34
 
 服务器配置如下:
 
-cpu:2v gold6133@2.5Ghz      ram:2GiB
+cpu:2v <gold6133@2.5Ghz>      ram:2GiB
 
 硬盘:20GiB        带宽:上行15Mbps,下行50Mbps
 

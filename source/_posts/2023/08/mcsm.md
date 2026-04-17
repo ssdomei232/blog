@@ -33,17 +33,20 @@ date: 2023-08-19 16:05:12
 ![2.png](/img/2023/8/19/mcsm/2.png)
 ![3.png](/img/2023/8/19/mcsm/3.png)
 ![4.png](/img/2023/8/19/mcsm/4.png)
+
 ## 加入游戏
 
 在控制台进入mcsm管理面板开启服务器，控制台会给你连接地址，填入我的世界“多人游戏”的游戏地址(点击添加游戏后从上往下数第二个框框)中即可。
 ![5.png](/img/2023/8/19/mcsm/5.png)
 ![6.png](/img/2023/8/19/mcsm/6.png)
 ![7.png](/img/2023/8/19/mcsm/7.png)
+
 ## 注意
 
 我认为上述教程完全没有必要，雨云的操作已经足够简便了，如果你需要上述教程的话我还是建议你尽早放弃，因为一旦出现问题你根本就无法解决。
 
 了解更多可以去雨云百科：[最新雨云百科/游戏云 VPS话题 - 雨云论坛 (](https://forum.rainyun.com/c/wiki/rgskvm/17)[rainyun.com](https://rainyun.com/)[)](https://forum.rainyun.com/c/wiki/rgskvm/17)
+
 # linux服务器
 
 服务器可以购买云服务器，也可以使用内网穿透，云服务器推荐雨云游戏云，按天计费以及独家动态计费
@@ -59,12 +62,15 @@ ssh工具可以用：[SSH工具_Aechoterm (](https://ec.nantian.com.cn/#/home)[n
 ## 安装java
 
 首先检查你以前是否安装了java，如果不是你想要的版本，请卸载它。
+
 ```
 java -version
 ```
+
 安装jdk，这里使用清华大学开源软件镜像站，默认屏蔽海外ip。国外用户可以选择Adoptium
 
 这里以jdk17 x64为例。jdk文件下载地址右键需要的版本复制链接即可.
+
 ```
 # 创建安装目录
 mkdir /usr/local/java/
@@ -102,20 +108,23 @@ ln -sf /usr/local/java/jdk-17.0.6+10/bin/java /usr/bin/java
  
 java -version
 ```
+
 ## 安装mcsm面板
 
 这里仅展示一键安装命令，如果需要手动安装请去mcsm面板文档：[首页 - MCSManager 帮助文档 (](https://mcsm.imlazy.ink/)[imlazy.ink](http://imlazy.ink/)[)](https://mcsm.imlazy.ink/)
+
 ```
 # 安装完成后使用 systemctl start mcsm-{web, daemon} 即可启动
 wget -qO- https://gitee.com/mcsmanager/script/raw/master/setup.sh | bash
 ```
+
 面板需要23333和24444端口，请提前开放防火墙和安全组
 
 访问：https;//服务器的ip地址:23333
 
 使用nat模式需要映射端口：
 
-访问：http://你的服务器ip地址:映射后的23333端口
+访问：<http://你的服务器ip地址:映射后的23333端口>
 
 ## 创建服务器
 
@@ -165,4 +174,5 @@ mod放在文件管理--mods文件夹中
 我选择使用樱花frp，他们的文档十分详细，这里就不写了，其它内网穿透软件也是基本通用的。[我的世界(Minecraft) 局域网联机穿透指南 | SakuraFrp 帮助文档 (](https://doc.natfrp.com/app/mc.html)[natfrp.com](http://natfrp.com/)[)](https://doc.natfrp.com/app/mc.html)
 
 # 服务端下载
+
 [Index of / - mc服务端下载站 (mmeiblog.cn)](https://d.mmeiblog.cn/)

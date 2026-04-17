@@ -16,7 +16,7 @@ date: 2025-04-05 15:30:47
 
 | 地区 | CPU | 内存 | 硬盘 | 宽带 | 流量 | IP | 价格 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| HK-Lite | AMD EPYC 7663 | 1GB | 10GB SSD | 1Gbps | 4TiB/月（双向） | v4*1 + v6*1| 2.5$/月|  
+| HK-Lite | AMD EPYC 7663 | 1GB | 10GB SSD | 1Gbps | 4TiB/月（双向） | v4*1 + v6*1 | 2.5$/月 |  
 
 **优惠码**:  
 月付优惠码: `1YearM7THT80`  
@@ -25,7 +25,7 @@ date: 2025-04-05 15:30:47
 ## 线路
 
 | 运营商 | 去程 | 回程 |
-| --- | ---| --- |
+| --- | --- | --- |
 | China Telecom | AS4134 -> ntt(jp) -> ntt(hk) | ntt(hk) -> ntt(sg) -> AS4134 |
 | China Unicom | AS4837 -> ntt(hk) | ntt(hk) -> ntt(jp) -> AS4837 |
 | China Mobile | AS58453(hk) -> ntt(hk) | AS58453 |

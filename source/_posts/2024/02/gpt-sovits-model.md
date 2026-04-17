@@ -38,6 +38,6 @@ GPT-sovits是一个简单好用的TTS模型，开源地址:
 
 数据集来源: [Bilibili](https://www.bilibili.com/read/cv23965717/)
 
-### 下载
+## 下载
 
-自建网盘(无需登录/注册): [https://c.mmeiblog.cn/files/GPT-Sovits-models](https://c.mmeiblog.cn/files/GPT-Sovits-models)
+自建网盘(无需登录/注册): [https://c.mmeiblog.cn/share/files/GPT-Sovits-models](https://c.mmeiblog.cn/share/files/GPT-Sovits-models)

@@ -10,7 +10,9 @@ banner_img: /img/2023/7/19/cq/1.jpg
 permalink: /articles/2023/cqhp.html
 date: 2023-07-19 21:09:01
 ---
-
+{% note danger %}
+由于文章时间久远以及新规实行，本文大多数技巧已失效
+{% endnote %}
 
 在重庆航拍，只需记住一句话---敢飞？警察就在你身边。
 

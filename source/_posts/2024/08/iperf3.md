@@ -13,23 +13,33 @@ date: 2024-08-31 07:32:15
 ---
 
 ## 安装
+
 1. Linux
+
 ```bash
 apt install iperf3
 ```
+
 2. Windows
-官网下载安装包：        
+官网下载安装包：
 [https://iperf.fr/iperf-download.php](https://iperf.fr/iperf-download.php)
+
 ## 使用
+
 1. 被测端:
+
 ```shell
 iperf3 -sD
 ```
+
 2. 测试端:
+
 ```shell
 iperf3 -c x.x.x.x -t 5 -P 5 -f M
 ```
+
 3. 服务端参数
+
 ```TEXT
 -s：表示启动服务端
 
@@ -43,7 +53,9 @@ iperf3 -c x.x.x.x -t 5 -P 5 -f M
 
 用法示例：iperf3 -s -i 1 -p 10000
 ```
+
 4. 客户端参数：
+
 ```TEXT
 -c：表示启动客户端，后边跟上服务端IP
 
@@ -69,7 +81,9 @@ iperf3 -c x.x.x.x -t 5 -P 5 -f M
 
 -V: 更详细的输出（包含cpu、协议类型等的显示）
 ```
+
 5. 输出结果
+
 ```TEXT
 Interval：输出结果的时间间隔
 
@@ -85,4 +99,5 @@ Cwnd： 拥塞窗口排队数据量大小
 ```
 
 ## 参考资料
+
 [Iperf3工具的安装与使用测试案例及各参数](https://www.wanpeng.life/1888.html)

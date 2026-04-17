@@ -65,4 +65,3 @@ ln -sf /usr/local/java/jdk-17.0.6+10/bin/java /usr/bin/java
 java -version
 
 ```
-

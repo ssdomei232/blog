@@ -11,13 +11,17 @@ permalink: /articles/2024/hexo-plugins/index.html
 date: 2024-07-03 09:46:47
 ---
 
-### hexo-generator-feed -- RSS 订阅 
-**安装**:   
+### hexo-generator-feed -- RSS 订阅
+
+**安装**:
+
 ```shell
 npm install hexo-generator-feed --save
 ```
-**使用**:       
+
+**使用**:
 在`_config.yml`中添加:
+
 ```yaml
 #订阅RSS
 feed:
@@ -25,7 +29,9 @@ feed:
   path: atom.xml
   limit: false
 ```
+
 或
+
 ```yaml
 feed:
   type: rss2
@@ -34,6 +40,7 @@ feed:
 ```
 
 配置含义：  
+
 * `type`: RSS的类型(atom/rss2)
 * `path`: 文件路径，默认是 atom.xml/rss2.xml
 * `limit`: 展示文章的数量,使用 0 或则 false 代表展示全部
@@ -45,12 +52,16 @@ feed:
 * `order_by`: 订阅内容的顺序。 (默认: -date)
 
 ### hexo-generator-sitemap -- sitemap
-**安装**: 
+
+**安装**:
+
 ```shell
 npm install hexo-generator-sitemap --save
 ```
-**使用**:       
+
+**使用**:
 在`_config.yml`中添加:
+
 ```yaml
 menu:
   home: / || home
@@ -64,4 +75,5 @@ menu:
 ```
 
 ### hexo-deployer-git
+
 详见 [推送Hexo至自建gitea仓库中 - mei.lv](https://mei.lv/articles/2024/hexo-git/)

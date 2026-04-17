@@ -12,6 +12,7 @@ banner_img: /img/2024/4/linuxpkg-offline/00020-3477423043.webp
 permalink: /articles/2024/linuxpkg-offline.html
 ---
 ### 制作
+
 ```bash
 ## 查看当前软件包
 ls /var/cache/apt/archives/
@@ -40,6 +41,7 @@ cd /opt/pkgs && dpkg-scanpackages -m . > Packages
 ### 使用
 
 #### 本地使用
+
 ```bash
 ## 备份源文件
 mv /etc/apt/sources.list /etc/apt/sources.list.bak
@@ -48,6 +50,7 @@ echo "deb [trusted=yes] file:///opt/pkgs ./" >> /etc/apt/sources.list
 ```
 
 #### 网络使用
+
 ```bash
 ## 备份源文件
 mv /etc/apt/sources.list /etc/apt/sources.list.bak
@@ -55,7 +58,7 @@ mv /etc/apt/sources.list /etc/apt/sources.list.bak
 echo "deb [trusted=yes] http(s)://example.com/pkgs ./" >> /etc/apt/sources.list
 ```
 
-
 ### 参考资料
+
 [Linux基础-制作本地apt仓库（离线安装软件）](https://blog.csdn.net/Passerby_Wang/article/details/123600746)
-[如何创建一个简单 APT 仓库 ](https://www.cnblogs.com/bamanzi/p/create-simple-apt-repo.html)
+[如何创建一个简单 APT 仓库](https://www.cnblogs.com/bamanzi/p/create-simple-apt-repo.html)
