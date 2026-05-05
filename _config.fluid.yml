@@ -335,7 +335,7 @@ lazyload:
 
 # 图标库，包含了大量社交类图标，主题依赖的不包含在内，因此可自行修改，详见 https://hexo.fluid-dev.com/docs/icon/
 # Icon library, which includes many social icons, does not include those theme dependent, so your can modify link by yourself. See: https://hexo.fluid-dev.com/docs/en/icon/
-iconfont: //at.alicdn.com/t/c/font_4340394_nwbq4p7zql.css
+iconfont: //at.alicdn.com/t/c/font_4340394_jogej9tniy.css
 
 
 #---------------------------
@@ -992,6 +992,7 @@ about:
   # More icons can be found from https://hexo.fluid-dev.com/docs/en/icon/  `class` is the css class of the icon. If adding `qrcode`, The icon is no longer a link, but a hovering QR code
   icons:
     - { class: "iconfont icon-github-fill", link: "https://github.com/ssdomei232", tip: "GitHub" }
+    - { class: "iconfont icon-VRChat", link: "https://vrchat.com/home/user/usr_06d0faa1-c313-45ba-b758-e46a768ce0a2", tip: "VRChat" }
     - { class: "iconfont icon-bilibili-line", link: "https://space.bilibili.com/521933071", tip: "bilibili" }
     - { class: "iconfont icon-netease-cloud-music-line", link: "https://music.163.com/#/user/home?id=8118136968", tip: "cloudmusic" }
     - { class: "iconfont icon-email", link: "mailto:i@mei.lv", tip: "e-mail" }
