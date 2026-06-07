@@ -6,6 +6,7 @@ categories:
 - 社会熵
 permalink: /articles/2025/Social-entropy.html
 date: 2025-10-07 19:22:33
+hide: true
 ---
 
 **本文仍在更新中，由于本文属于长期项目，所以先放出来**
