@@ -1,5 +1,5 @@
 ---
-title: VRChat杂谈(其一) -- 你的注视饱含贪恋
+title: VRChat杂谈(其一)： 你的注视饱含贪恋
 tags: 
 - VRChat
 categories: 
@@ -20,7 +20,7 @@ hide: true
 
 玩了以后才发现《月读》和 VRChat 其实挺像的，我似乎也有些理解了为什么当初扎克伯格为什么如此痴迷于元宇宙，也似乎有些理解了他为什么失败。
 
-## 你的注视饱含贪恋
+## 砂糖：你的注视饱含贪恋
 
 众所(bu)周知，在 VRChat 中有一种比较特殊的人际关系——砂糖  
 
@@ -45,7 +45,7 @@ hide: true
 当剔除了”炮友“这种畸形的砂糖后，重新审视砂糖这种关系，他们似乎和现实中的情侣是一样的，每天腻歪在一起，看电影，打游戏。
 但事实真的是这样吗，显然有些区别，首要问题是为什么人可以在虚拟世界中产生现实中的情侣关系，你可能会说现实中不也有网恋吗。  
 
-但砂糖和网恋又存在着一些显著区别，首先是很少有人会奔线，还有相比较而言的更普遍的性别模糊问题(关于这类现象的具体统计我还在进行问卷收集，欢迎来填一下: [https://s.mmeiblog.cn/s/s28uJv](https://s.mmeiblog.cn/s/s28uJv))
+但砂糖和网恋又存在着一些显著区别，首先是为什么这种虚无缥缈的关系会如此广泛的存在，还有相比较而言的更普遍的性别模糊问题(关于这类现象的具体统计我还在进行问卷收集，欢迎来填一下: [https://s.mmeiblog.cn/s/s28uJv](https://s.mmeiblog.cn/s/s28uJv))
 
 ### 普罗透斯效应
 
@@ -63,11 +63,32 @@ hide: true
 
 把自我知觉理论带入VRChat,可以理解为你在用VR的时候对自己现实中的身体的感知度降低，开始贴合自己在虚拟世界中的身体并做出与虚拟世界中身体相符合的行为(比如卖萌之类的)。
 
-<!-- 人的异化 -->
+### 人的异化
 
+普罗透斯效应和自我知觉理论解答了很多关于砂糖为何存在的问题，但没有解答砂糖这种关系为何能够广泛存在，我们又为什么如此沉迷于这种关系的问题。
+
+人的异化一开始指的是`在私有制和分工固化背景下，人类生产的物质与精神成果转化为异己力量，导致人的本质被扭曲并受其支配的现象`[^2],但随着社会的发展，人的异化也被渐渐扩展到消费、娱乐、数字劳动、日常生活及社会交往等领域  
+可以引申理解为精神与肉体在行为需求上的分离，而砂糖这种关系就是这样的，虚拟的同场，对大脑的欺骗，人们在虚拟世界中一定程度上隐藏了真实的自己(当然这只是一部分人会选择这么干，也有很多砂糖对现实中的对方也是知根知底的)。
+
+在这种关系中，现代技术成功欺骗了大脑，让精神需求在完全脱离物理肉体的情况下得到了满足。  
+当然这些精神需求并不局限于视觉上的好看的模型之类的，也包括共情，互相安慰等现实中情侣也会做的事。
+
+### 真实的困苦无法抵消
+
+> 祈祷过我也有颗镜像的心脏 如果像她们般闪耀　真实的困苦或能得以抵消  —— 泠洛
+
+其实能在VRChat这个游戏社区中长时间玩下去的人，精神状态可能都不太正常。  
+如果在现实中可以拥有正常的社交，大概没有人会选择这种关系，这种关系并不稳定，还可能会遇到很不好的人。
+
+但对于现在社会中许多并不那么正常的人 —— 整天待在家里，内向，还有各种精神问题，这种关系确实是一种很合适的相互慰藉的手段。
+
+在这种关系中，人们摆脱了现实中的许多限制，可以拥有"不看条件、只看灵魂是否契合"的感情体验
+
+<!-- 性别分离问题 -->
 ## 参考资料
 
 [^1]: [Proteus effect](https://en.wikipedia.org/wiki/Proteus_effect)
+[^2]: [人的异化](https://www.zgbk.com/ecph/words?SiteID=1&ID=450k8j)
 [^3]: [Self-perception theory](https://en.wikipedia.org/wiki/Self-perception_theory)
 [^6]: [虛擬實境中的「幻象感」是什麼？虛擬感覺的神經科學解析](https://blog.vive.com/tw/what-is-phantom-sense-in-vr-the-neuroscience-of-virtual-sensations/)
 [^7]: [《从虚拟到现实：VRChat“砂糖”情侣概念的延伸思考与恋爱观解构》](https://pd.qq.com/g/1145VRChat/post/B_7364106981ff04001441152192051994610X60)
@@ -76,6 +97,5 @@ hide: true
 [^10]: [人们为什么要做 ERP？](https://www.reddit.com/r/VRchat/comments/ktz5hq/why_do_people_do_erp/?tl=zh-hans)
 [^11]: [How Fantasy Becomes Reality: Information and Entertainment Media in Everyday Life, Revised and Expanded](https://books.google.com/books?id=dRKnCgAAQBAJ&q=Proteus+effect+nick+yee&pg=PT53)
 [^12]: [Can Avatar Appearance Influence Physical Activity? User-Avatar Similarity and Proteus Effects on Cardiac Frequency and Step Counts](https://www.tandfonline.com/doi/full/10.1080/10410236.2020.1834194)
-[^13]: ["Self-Perception Theory". Advances in Experimental Social Psychology Volume 6. Vol. 6. pp. 1–62](https://www.sciencedirect.com/science/chapter/bookseries/abs/pii/S0065260108600246?via%3Dihub)
+[^13]: [”Self-Perception Theory“. Advances in Experimental Social Psychology](https://www.sciencedirect.com/science/chapter/bookseries/abs/pii/S0065260108600246?via%3Dihub)
 <!-- [花烬系列设定](https://copcop.lofter.com/post/1db32eeb_9c86305) -->
-
