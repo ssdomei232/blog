@@ -1,5 +1,5 @@
 ---
-title: VRChat杂谈(其一)： 你的注视饱含贪恋
+title: VRChat杂谈(其一)： 你的注视饱含贪恋(人际关系篇)
 tags: 
 - VRChat
 categories: 
@@ -27,14 +27,14 @@ hide: true
 如果你去互联网上搜索 VRChat 的相关教程，很多都会让你与有砂糖的人保持一定距离以避免一些不必要的麻烦。  
 不过玩久了之后也会发现这只是写给萌新的一个前期注意事项，并不是所有人都在意自己的砂糖和别人的亲密互动。  
 
-因为砂糖并没有一个很准确的定义，大多数文章也只能给出一个模糊的定义"一种具有高度亲密性的虚拟双人关系"[^7]。  
+因为砂糖并没有一个很准确的定义，大多数文章也只能给出一个模糊的定义"一种具有高度亲密性的虚拟双人关系"[^5]。  
 
 略微严谨一些的文章尚且如此，众多砂糖间的实际关系就更加“百花齐放”了。  
 同时由于一些相关视频的传播，圈外人包括部分玩家对砂糖都抱有一些刻板印象(大多是不那么好的印象)。  
 
 ### 缘起
 
-关于砂糖的起源，大概是无从考证了，可以确定的是，这个词最早是日本的VRC玩家流传出来的，定义是指两个使用美少女模型的玩家经常进亲密互动行为的朋友关系，因为在外人看起来很甜美和糖一样，所以称为砂糖关系[^8] 。  
+关于砂糖的起源，大概是无从考证了，可以确定的是，这个词最早是日本的VRC玩家流传出来的，定义是指两个使用美少女模型的玩家经常进亲密互动行为的朋友关系，因为在外人看起来很甜美和糖一样，所以称为砂糖关系[^6] 。  
 不过显而易见的是，这个词随着VRChat社区的发展已经不再单纯的是当初的意思了。  
 
 在经过了数年的发展以及中国玩家的"本地化"之后，砂糖这种关系已经变成了一个非常复杂的体系。
@@ -49,16 +49,18 @@ hide: true
 
 ### 普罗透斯效应
 
-我们先来解释第一个区别，其实早在二十多年前[^11]，甚至在网恋出现之前，就已经有人提出了类似的现象，就是普罗透斯效应[^1]。  
+我们先来解释第一个区别，其实早在二十多年前[^9]，甚至在网恋出现之前，就已经有人提出了类似的现象，就是普罗透斯效应[^1]。  
 
-虽然听起来很高级，但普罗透斯效应表现很简单，就是人会被自己的虚拟形象所影响，而且"高度的化身认同"(可以理解为你对虚拟角色的代入感之类的)会放大普洛透斯效应[^12]，同时一些研究还认为普罗透斯效应可以影响到线下的行为[^1]。  
+虽然听起来很高级，但普罗透斯效应表现很简单，就是人会被自己的虚拟形象所影响，而且"高度的化身认同"(可以理解为你对虚拟角色的代入感之类的)会放大普洛透斯效应[^10]，同时一些研究还认为普罗透斯效应可以影响到线下的行为[^1]。  
 
-不过上面所说的研究进行的时间都比较古早，硬件条件和脑洞大小(高精模型和郊狼之类的)肯定都不如现在的VRChat中国玩家，虽然在研究中对上面一些影响都表示不确定，但从现在VRChat社区略显荒诞的社区环境看，大概也能肯定这些现象了。  
+不过上面所说的研究进行的时间都比较古早，硬件条件和脑洞大小(高精模型和郊狼之类的)肯定都不如现在的VRChat中国玩家，虽然在研究中对上面一些影响都表示不确定，但从现在 VRChat 社区略显荒诞的社区环境看，大概也能肯定这些现象了。  
+
+这也就解释了为什么一些人在现实中表现出的性别和游戏中完全不同，基于此我还可以提出一种假说: 普罗透斯效应带来的影响会随着离开虚拟化身的时间增加而减少，当然我已经没有时间去验证这个假说了。
 
 ### 自我知觉理论
 
 关于普罗透斯效应的深层机理，目前并无定论，目前比较靠谱的就是自我知觉理论[^3]。  
-自我知觉理论指出，当内部线索较弱时，个体通过对外部观察来确定自己的态度和情绪，这些观察包括对自己的行为以及导致这些行为的情境[^13]。  
+自我知觉理论指出，当内部线索较弱时，个体通过对外部观察来确定自己的态度和情绪，这些观察包括对自己的行为以及导致这些行为的情境[^11]。  
 
 把自我知觉理论带入 VRChat ,可以理解为你在用VR的时候对自己现实中的身体的感知度降低，开始贴合自己在虚拟世界中的身体并做出与虚拟世界中身体相符合的行为(比如卖萌之类的)。
 
@@ -84,23 +86,31 @@ hide: true
 
 但对于现在社会中许多并不那么正常的人 —— 整天待在家里，内向，还有各种精神问题，这种关系确实是一种很合适的相互慰藉的手段。
 
-在这种关系中，人们摆脱了现实中的许多限制，可以拥有"不看条件、只看灵魂是否契合"的感情体验
+在这种关系中，人们摆脱了现实中的许多限制，可以拥有"不看条件、只看灵魂是否契合"的感情体验。
+
+但这种关系真的健康吗？我认为在现在的社会背景和技术条件下是不健康的，人类的精神追求仍然无法脱离物质基础存在，我们还要吃饭、喝水、睡觉，这些都要钱。在短时间内，脱离物质基础存在的感情还是不太能维持稳定的。  
+
+和我在这节开头说的一样，能长久玩下去这个游戏的人精神状态都不太正常，最起码在当下这个社会是这样的。  
+选择深入这个游戏，或许意味着一场精神自救，又或许意味着彻底堕落，不论怎样，希望屏幕前的你是前者，早日离开这里，终结这场恶疾。  
+VRChat 这款游戏本身没有问题，他有些超前了，超过了这个时代，他并没有加剧这场疾病，只是提供了一次自救的机会。  
+希望你早日在现实中找到那个真正爱你的人——不为物质，不为情绪价值，只愿你开心、你安好，日子过得好，希望你轻松一些，没有任何企图。[^12]
 
 ## ERP
 
 ### 欲望的兽不再受阻
-<!-- 性别分离问题 -->
+
 ## 参考资料
 
 [^1]: [Proteus effect](https://en.wikipedia.org/wiki/Proteus_effect)
 [^2]: [人的异化](https://www.zgbk.com/ecph/words?SiteID=1&ID=450k8j)
 [^3]: [Self-perception theory](https://en.wikipedia.org/wiki/Self-perception_theory)
-[^6]: [虛擬實境中的「幻象感」是什麼？虛擬感覺的神經科學解析](https://blog.vive.com/tw/what-is-phantom-sense-in-vr-the-neuroscience-of-virtual-sensations/)
-[^7]: [《从虚拟到现实：VRChat“砂糖”情侣概念的延伸思考与恋爱观解构》](https://pd.qq.com/g/1145VRChat/post/B_7364106981ff04001441152192051994610X60)
-[^8]: [所以，砂糖是什么](https://pd.qq.com/g/1145VRChat/post/B_4ce2be685bc709001441152190321935350X60)
-[^9]: [VRChatの亲密关系——ERP对人类心理的渗透是如何将人际交往推向深渊的？](https://zhuanlan.zhihu.com/p/1916885010323072310)
-[^10]: [人们为什么要做 ERP？](https://www.reddit.com/r/VRchat/comments/ktz5hq/why_do_people_do_erp/?tl=zh-hans)
-[^11]: [How Fantasy Becomes Reality: Information and Entertainment Media in Everyday Life, Revised and Expanded](https://books.google.com/books?id=dRKnCgAAQBAJ&q=Proteus+effect+nick+yee&pg=PT53)
-[^12]: [Can Avatar Appearance Influence Physical Activity? User-Avatar Similarity and Proteus Effects on Cardiac Frequency and Step Counts](https://www.tandfonline.com/doi/full/10.1080/10410236.2020.1834194)
-[^13]: [”Self-Perception Theory“. Advances in Experimental Social Psychology](https://www.sciencedirect.com/science/chapter/bookseries/abs/pii/S0065260108600246?via%3Dihub)
+[^4]: [虛擬實境中的「幻象感」是什麼？虛擬感覺的神經科學解析](https://blog.vive.com/tw/what-is-phantom-sense-in-vr-the-neuroscience-of-virtual-sensations/)
+[^5]: [《从虚拟到现实：VRChat“砂糖”情侣概念的延伸思考与恋爱观解构》](https://pd.qq.com/g/1145VRChat/post/B_7364106981ff04001441152192051994610X60)
+[^6]: [所以，砂糖是什么](https://pd.qq.com/g/1145VRChat/post/B_4ce2be685bc709001441152190321935350X60)
+[^7]: [VRChatの亲密关系——ERP对人类心理的渗透是如何将人际交往推向深渊的？](https://zhuanlan.zhihu.com/p/1916885010323072310)
+[^8]: [人们为什么要做 ERP？](https://www.reddit.com/r/VRchat/comments/ktz5hq/why_do_people_do_erp/?tl=zh-hans)
+[^9]: [How Fantasy Becomes Reality: Information and Entertainment Media in Everyday Life, Revised and Expanded](https://books.google.com/books?id=dRKnCgAAQBAJ&q=Proteus+effect+nick+yee&pg=PT53)
+[^10]: [Can Avatar Appearance Influence Physical Activity? User-Avatar Similarity and Proteus Effects on Cardiac Frequency and Step Counts](https://www.tandfonline.com/doi/full/10.1080/10410236.2020.1834194)
+[^11]: [”Self-Perception Theory“. Advances in Experimental Social Psychology](https://www.sciencedirect.com/science/chapter/bookseries/abs/pii/S0065260108600246?via%3Dihub)
+[^12]: [致缺爱、迷茫与药娘的一封信](https://tieba.baidu.com/p/10609993768)
 <!-- [花烬系列设定](https://copcop.lofter.com/post/1db32eeb_9c86305) -->
