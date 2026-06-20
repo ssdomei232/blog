@@ -4,8 +4,8 @@ tags:
 - VRChat
 categories: 
 - VRChat
-index_img: /img/2026/vrc1/vrchat-logo-white-transparent-crop-background.png
-banner_img: /img/2026/vrc1/vrchat-logo-white-transparent-crop-background.png
+index_img: /img/2026/vrc1/vrc.webp
+banner_img: /img/2026/vrc1/vrc-big.png
 permalink: /articles/2026/vrc-1.html
 date: 2026-03-03 10:48:59
 hide: true
