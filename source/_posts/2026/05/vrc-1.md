@@ -91,9 +91,11 @@ hide: true
 但这种关系真的健康吗？我认为在现在的社会背景和技术条件下是不健康的，人类的精神追求仍然无法脱离物质基础存在，我们还要吃饭、喝水、睡觉，这些都要钱。在短时间内，脱离物质基础存在的感情还是不太能维持稳定的。  
 
 和我在这节开头说的一样，能长久玩下去这个游戏的人精神状态都不太正常，最起码在当下这个社会是这样的。  
-选择深入这个游戏，或许意味着一场精神自救，又或许意味着彻底堕落，不论怎样，希望屏幕前的你是前者，早日离开这里，终结这场恶疾。  
-VRChat 这款游戏本身没有问题，他有些超前了，超过了这个时代，他并没有加剧这场疾病，只是提供了一次自救的机会。  
-希望你早日在现实中找到那个真正爱你的人——不为物质，不为情绪价值，只愿你开心、你安好，日子过得好，希望你轻松一些，没有任何企图。[^12]
+选择深入这个游戏，或许意味着一场精神自救，又或许意味着彻底堕落。  
+<!-- ，不论怎样，希望屏幕前的你是前者，早日离开这里，终结这场恶疾。   -->
+<!-- VRChat 这款游戏本身没有问题，他有些超前了，超过了这个时代，他并没有加剧这场疾病，只是提供了一次自救的机会。   -->
+<!-- 希望你早日在现实中找到那个真正爱你的人——不为物质，不为情绪价值，只愿你开心、你安好，日子过得好，希望你轻松一些，没有任何企图。[^12] -->
+<!-- 作为一个懦弱的逃避者，我大概是不配讲出这些话语的吧... -->
 
 ## ERP
 
@@ -107,7 +109,7 @@ VRChat 这款游戏本身没有问题，他有些超前了，超过了这个时�
 幻触构筑了 ERP 的很大一部分生理基础(具体的数据我们也在收集问卷，相关问题包含在上文提到的问卷中，欢迎去填一下)，很多人是因为有幻触才有动力进行 ERP，而没有幻触的人则无法理解这种行为，这也在社区中导致了一些矛盾。  
 
 有人说 ERP 其实就是性压抑，首先这个观点绝对是错误的，发表这个观点的人肯定不理解性压抑到底是什么意思，做 ERP 的人是绝对不性压抑的。  
-性压抑（Sexual Repression）也称为性饥饿，是指人本身有欲望，但出于种种原因无法发泄，只能对自己进行制约和控制的一种生理状态和心理状态。[^13]关于性压抑的详细内容本文不做讨论，这和本文主题无关。  
+性压抑（Sexual Repression）也称为性饥饿，是指人本身有欲望，但出于种种原因无法发泄，只能对自己进行制约和控制的一种生理状态和心理状态。[^12]关于性压抑的详细内容本文不做讨论，这和本文主题无关。  
 从定义也可以看出来，做 ERP 的人是绝对不性压抑的。  
 
 ## 参考资料
@@ -122,7 +124,6 @@ VRChat 这款游戏本身没有问题，他有些超前了，超过了这个时�
 [^8]: [人们为什么要做 ERP？](https://www.reddit.com/r/VRchat/comments/ktz5hq/why_do_people_do_erp/?tl=zh-hans)
 [^9]: [How Fantasy Becomes Reality: Information and Entertainment Media in Everyday Life, Revised and Expanded](https://books.google.com/books?id=dRKnCgAAQBAJ&q=Proteus+effect+nick+yee&pg=PT53)
 [^10]: [Can Avatar Appearance Influence Physical Activity? User-Avatar Similarity and Proteus Effects on Cardiac Frequency and Step Counts](https://www.tandfonline.com/doi/full/10.1080/10410236.2020.1834194)
-[^11]: [”Self-Perception Theory“. Advances in Experimental Social Psychology](https://www.sciencedirect.com/science/chapter/bookseries/abs/pii/S0065260108600246?via%3Dihub)
-[^12]: [致缺爱、迷茫与药娘的一封信](https://tieba.baidu.com/p/10609993768)
-[^13]: [李银河：大家为何经常误解福柯对“性压抑”学说的批判？](https://baijiahao.baidu.com/s?id=1687305536023125933)
+[^11]: [”Self-Perception Theory“. Advances in Experimental Social Psychology](https://www.sciencedirect.com/science/chapter/bookseries/abs/pii/S0065260108600246?via%3Dihub)\
+[^12]: [李银河：大家为何经常误解福柯对“性压抑”学说的批判？](https://baijiahao.baidu.com/s?id=1687305536023125933)
 <!-- [花烬系列设定](https://copcop.lofter.com/post/1db32eeb_9c86305) -->
