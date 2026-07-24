@@ -5,8 +5,8 @@ tags:
 - 游记
 categories: 
 - 旅游
-index_img: /img/2026/taiyuan/day1-2.png
-banner_img: /img/2026/taiyuan/day1-2.png
+index_img: /img/2026/taiyuan/day3-5.webp
+banner_img: /img/2026/taiyuan/day3-5.webp
 permalink: /articles/2026/taiyuan.html
 date: 2026-07-24 21:05:06
 ---
