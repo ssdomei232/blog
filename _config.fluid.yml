@@ -1109,7 +1109,7 @@ links:
         title: "叹惋博客",
         intro: "唉…",
         link: "https://twbk.cn/",
-        avatar: "https://twbk.cn/wp-content/uploads/2025/10/logo.png?orientation=landscape&width=512&height=512"
+        avatar: "https://twbk.cn/wp-content/uploads/2025/10/logo.png"
       }
 
   # 当成员头像加载失败时，替换为指定图片
