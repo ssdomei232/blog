@@ -1049,13 +1049,13 @@ links:
       title: "风屿岛",
       intro: "不知名海域的知名岛屿",
       link: "https://www.biliwind.com",
-      avatar: "https://www.biliwind.com/wp-content/uploads/2024/09/cropped-favicon-32x32.png"
+      avatar: "https://oss-cn.mmeiblog.cn/blog/biliwind-logo.webp"
     }
     - {
       title: "卿辞",
       intro: "落叶他乡树,寒灯独夜人",
       link: "http://myself.loveqingci.top/",
-      avatar: "https://myself.loveqingci.top/assets/img/logo.jpg"
+      avatar: "https://oss-cn.mmeiblog.cn/blog/qingci-logo.jpg"
     }
     - {
       title: "TaylorAndTony",
@@ -1091,7 +1091,7 @@ links:
         title: "雪球Bqiu的小破站",
         intro: "今天吃啥，明天干点啥q(≧▽≦q)",
         link: "https://www.bqiu.top",
-        avatar: "https://qq-avatar.bqiu.ru/avatar"
+        avatar: "https://oss-cn.mmeiblog.cn/blog/bqiu-logo.jpg"
       }
     - {
         title: "LeonXieの小窝",
@@ -1103,7 +1103,13 @@ links:
         title: "小原blog",
         intro: "专注于技术实践与学习资源的个人博客",
         link: "https://blog.meowhead.cn/",
-        avatar: "https://blog.meowhead.cn/upload/icon_ya.png"
+        avatar: "https://oss-cn.mmeiblog.cn/blog/moewhead-logo.jpg"
+      }
+    - {
+        title: "叹惋博客",
+        intro: "唉…",
+        link: "https://twbk.cn/",
+        avatar: "https://twbk.cn/wp-content/uploads/2025/10/logo.png?orientation=landscape&width=512&height=512"
       }
 
   # 当成员头像加载失败时，替换为指定图片
