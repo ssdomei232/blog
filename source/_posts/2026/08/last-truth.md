@@ -7,7 +7,12 @@ categories:
 permalink: /articles/2026/last-truth.html
 date: 2026-08-17 20:39:10
 ---
-毫无疑问，这个世界是虚假的，也许是被某种计算机模拟出来的，又或许是别的什么我们无法想象的方式。
+毫无疑问，这个世界是虚假的，也许是被某种计算机模拟出来的，又或许是别的什么我们无法想象的方式。  
+
+{% note info %}
+本文有区块链版本可用: [https://app.ardrive.io/#/file/5838996c-b3f1-407e-96ca-9ee51a62e4b9/view](https://app.ardrive.io/#/file/5838996c-b3f1-407e-96ca-9ee51a62e4b9/view)  
+本文有互联网档案馆版本可用: [https://archive.org/details/last-truth](https://archive.org/details/last-truth)
+{% endnote %}
 
 ## 意识
 
