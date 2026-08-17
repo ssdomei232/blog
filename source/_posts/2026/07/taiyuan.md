@@ -130,9 +130,9 @@ Day2 vlog 版: [Bilibili](https://www.bilibili.com/video/BV1VUgh6MEtA)
 [No Copyright Music - MondaMusic](https://pixabay.com/zh/music/introoutro-no-copyright-music-560123/)  
 [Jazz No Copyright Music - AbsoluteSound](https://pixabay.com/zh/music/introoutro-jazz-no-copyright-music-560572/)  
 
-<!-- ## 太原之殇
+## 太原之殇
 
 为什么叫太原之殇呢，因为我并不认为这称的上是一次旅行。  
 过往的悲伤掺杂其中，无法摆脱，没有消解。  
 参与其中的人们，或许有了早已注定的悲剧结局。  
-我的最后一次出行，也没能获得理想中慢下来的旅行，多是一种悲伤啊，于是便称为是太原之殇了。   -->
+我的最后一次出行，也没能获得理想中慢下来的旅行，多是一种悲伤啊，于是便称为是太原之殇了。  
