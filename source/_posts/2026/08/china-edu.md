@@ -14,7 +14,8 @@ date: 2026-08-18 14:39:14
 
 {% note info %}
 本文有区块链版本可用: [https://app.ardrive.io/#/file/f093b99b-a718-44b0-89a0-a2bae940dc3e/view](https://app.ardrive.io/#/file/f093b99b-a718-44b0-89a0-a2bae940dc3e/view)  
-本文有互联网档案馆版本可用: [https://archive.org/details/china-edu](https://archive.org/details/china-edu)
+本文有互联网档案馆版本可用: [https://archive.org/details/china-edu](https://archive.org/details/china-edu)  
+本文有kaggle版本可用: [https://www.kaggle.com/datasets/mei232/china-edu](https://www.kaggle.com/datasets/mei232/china-edu)
 {% endnote %}
 
 很难说所有这些人的自杀都是由于中国教育，但一定有相当大一部分直接或间接的被中国教育所影响后自杀。  

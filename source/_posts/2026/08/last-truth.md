@@ -11,7 +11,8 @@ date: 2026-08-17 20:39:10
 
 {% note info %}
 本文有区块链版本可用: [https://app.ardrive.io/#/file/5838996c-b3f1-407e-96ca-9ee51a62e4b9/view](https://app.ardrive.io/#/file/5838996c-b3f1-407e-96ca-9ee51a62e4b9/view)  
-本文有互联网档案馆版本可用: [https://archive.org/details/last-truth](https://archive.org/details/last-truth)
+本文有互联网档案馆版本可用: [https://archive.org/details/last-truth](https://archive.org/details/last-truth)  
+本文有kaggle版本可用: [https://www.kaggle.com/datasets/mei232/last-truth/data](https://www.kaggle.com/datasets/mei232/last-truth/data)
 {% endnote %}
 
 ## 意识
