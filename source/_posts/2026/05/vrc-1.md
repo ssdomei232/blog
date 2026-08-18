@@ -8,7 +8,6 @@ index_img: /img/2026/vrc1/vrc.webp
 banner_img: /img/2026/vrc1/vrc-big.png
 permalink: /articles/2026/vrc-1.html
 date: 2026-03-03 10:48:59
-hide: true
 ---
 
 > 幻想与现实是多么遥远的东西啊。 —— 泠洛
