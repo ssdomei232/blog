@@ -5,9 +5,10 @@ tags:
 categories: 
 - 再见
 permalink: /articles/2026/last-truth.html
+hide: true
 date: 2026-08-17 20:39:10
 ---
-毫无疑问，这个世界是虚假的，也许是被某种计算机模拟出来的，又或许是别的什么我们无法想象的方式。  
+<!-- 毫无疑问，这个世界是虚假的，也许是被某种计算机模拟出来的，又或许是别的什么我们无法想象的方式。  
 
 {% note info %}
 本文有区块链版本可用: [https://app.ardrive.io/#/file/5838996c-b3f1-407e-96ca-9ee51a62e4b9/view](https://app.ardrive.io/#/file/5838996c-b3f1-407e-96ca-9ee51a62e4b9/view)  
@@ -153,4 +154,4 @@ date: 2026-08-17 20:39:10
 [^8]: [Wandering of the auroral oval 41,000 years ago](https://www.science.org/doi/10.1126/sciadv.adq7275)
 [^9]: [Entropy: A New World View](https://en.wikipedia.org/wiki/Entropy:_A_New_World_View)
 [^10]: [Cycles of Time](https://en.wikipedia.org/wiki/Cycles_of_Time)
-[^11]: [Heisenberg, Physics and Philosophy, Ch. 3](https://archive.org/details/ost-physics-heisenberg-physicsphilosophy/page/n23/mode/2up)
+[^11]: [Heisenberg, Physics and Philosophy, Ch. 3](https://archive.org/details/ost-physics-heisenberg-physicsphilosophy/page/n23/mode/2up) -->

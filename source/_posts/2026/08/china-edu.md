@@ -1,13 +1,14 @@
 ---
-title: 中国教育究竟还要害死多少人
+title: 学习今说
 tags: 
 - 再见
 categories: 
 - 再见
 permalink: /articles/2026/china-edu.html
+hide: true
 date: 2026-08-18 14:39:14
 ---
-
+<!-- 
 据不完全统计，中国2021 年，25 岁以下人群，自杀总数约6730人[^1][^2]。  
 如果算上隐瞒、强压的人数，真实数据恐怕远多于此。  
 这样的死亡人数相当于中国每年遭受一次庚子俄难[^3]，甚至更多。  
@@ -63,4 +64,4 @@ date: 2026-08-18 14:39:14
 
 [^1]: [中国统计年鉴 2023](https://www.stats.gov.cn/sj/ndsj/2023/indexch.htm)
 [^2]: [2022中国卫生健康统计年鉴](http://www.nhc.gov.cn/mohwsbwstjxxzx/tjtjnj/202305/6ef68aac6bd14c1eb9375e01a0faa1fb/files/b05b3d958fc546d98261d165cea4adba.pdf)
-[^3]: [庚子俄难](https://baike.baidu.com/item/%E5%BA%9A%E5%AD%90%E4%BF%84%E9%9A%BE/10043355)
+[^3]: [庚子俄难](https://baike.baidu.com/item/%E5%BA%9A%E5%AD%90%E4%BF%84%E9%9A%BE/10043355) -->
