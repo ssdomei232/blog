@@ -93,5 +93,5 @@ java @user_jvm_args.txt @libraries/net/minecraftforge/forge/1.20.1-47.3.33/unix_
 
 ## 最后
 
-最后，我们在 mcs.mmeiblog.cn 提供了一些打包好的整合包文件，如果你使用MCSM面板，还可以使用网站提供的一键开服功能，如果你想要一起van整合包，可以加入我们的QQ群:)
+最后，我们在 [mcs.mmeiblog.cn](mcs.mmeiblog.cn) 提供了一些打包好的整合包文件，如果你使用MCSM面板，还可以使用网站提供的一键开服功能，如果你想要一起van整合包，可以加入我们的QQ群:)
 ![qr](/img/2026/minecraft-server-pack/9.jpg)
