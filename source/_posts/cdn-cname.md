@@ -22,13 +22,13 @@ date: 2024-06-30 15:30:47
 
 如果你不想听我瞎叭叭,可以直接使用速查表格,如果你想了解一些详情,可以往下翻翻
 
-| 厂商 | CNAME域名 | 地址 | ICP备案情况 |　公安备案情况　| ICP/ISP/CDN证情况 |
+| 厂商 | CNAME域名 | 地址 | ICP备案情况 | 　公安备案情况　 | ICP/ISP/CDN证情况 |
 | --- | --- | --- | --- | --- | --- |
 | 白山云 | qingcdn.com </br> bsclink.cn </br> trpcdn.net </br> bsgslb.com | baishan.com | 有 | 有 | A2.B1-20160192 |
-| 网宿   | wsdvs.com </br> wsglb0.com </br> wscdns.com　</br> cdn30.com </br> wswebpic.com| wangsucloud.com | 有 | 有 | A2.B1-20050405 </br> 沪B2-20030144 |
+| 网宿 | wsdvs.com </br> wsglb0.com </br> wscdns.com　</br> cdn30.com </br> wswebpic.com | wangsucloud.com | 有 | 有 | A2.B1-20050405 </br> 沪B2-20030144 |
 | 滨纷云 | dogecast.com | bitiful.com | 有 | 有 | 无 |
-| 蓝汛   | ccgslb.com.cn | edgenext.com | 有 | 有 | |
-| 帝联   | fastcdn.com | dnion.com | 有 | 有 | B1-20100055 |
+| 蓝汛 | ccgslb.com.cn | edgenext.com | 有 | 有 | |
+| 帝联 | fastcdn.com | dnion.com | 有 | 有 | B1-20100055 |
 | 阿里云 | kunlun**.com(国内加速) </br> cdngslb.com(全球加速) </br> inittt.com(ESA) </br> init**.com(ESA全球加速) </br> aliyunddos10**.com(DDOS防御) | aliyun.com | 有 | 有 | 有 |
 | 腾讯云 | dnsv1.com </br> tc.cdntip.com </br> spcdntip.com | cloud.tencent.com | 有 | 有 | 有 |
 | 百度云 | bdydns.com </br> jomodns.com | cloud.baidu.com | 有 | 有 | 有 |
@@ -40,7 +40,7 @@ date: 2024-06-30 15:30:47
 | 亚马逊云 | cloudfront.net | aws.amazon.com | 无 | 无 | 无 |
 | Microsoft Azure | mschcdn.com | azure.microsoft.com | 有 | 有 | 无 |
 | verycdn | verycdn.net | api.verycdn.cn | 有 | 有 | 苏B2-20120140 </br> A2.B1-20150199 |
-| 金山云 | ksyuncdn.com </br> ks-cdn1.com </br> ks-cdn.com | ksyun.com | 有 | 有 | A2.B1-20140153 </br> 京ICP证120829号 </br> 京B2-20180585|
+| 金山云 | ksyuncdn.com </br> ks-cdn1.com </br> ks-cdn.com | ksyun.com | 有 | 有 | A2.B1-20140153 </br> 京ICP证120829号 </br> 京B2-20180585 |
 | 华为云 | cdnhwc2.com </br> cdnhwcggk22.com </br> cdnhwcaip122.cn | huaweicloud.com | 有 | 有 | B1.B2-20200593 </br> 黔D3-20230001 |
 | 失控的防御系统/日出CDN | cnmnmsl.top | scdn.io | 有 | 有 | B1-20243664 |
 | CNMCDN | svipcdn.cn | cnmcdn.cn | 有 | 有 | B1-20231488 |
