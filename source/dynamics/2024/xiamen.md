@@ -6,4 +6,4 @@ tags:
 ---
 
 我妈去厦门玩,万万没想到她给我带了这个
-![天依!](/img/2023/xiamen/B1545C1A5554995BE20869AAFEE6AFC8.jpg)
+![天依!](/img/2024/xiamen/B1545C1A5554995BE20869AAFEE6AFC8.jpg)

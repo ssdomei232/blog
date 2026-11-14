@@ -6,4 +6,4 @@ tags:
 ---
 
 去中考了!(这个袋子我去高考的时候大概还会背)
-![中考](/img/2024/xiamen/B1545C1A5554995BE20869AAFEE6AFC8.jpg)
+![中考](/img/2024/exam/A.jpg)
