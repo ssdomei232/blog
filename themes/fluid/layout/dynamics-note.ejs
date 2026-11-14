@@ -1,0 +1,35 @@
+<%
+var dynamicsConfig = theme.dynamics || {}
+var avatar = dynamicsConfig.avatar || theme.about.avatar
+var author = dynamicsConfig.author || theme.about.name || config.author
+var dateFormat = dynamicsConfig.date_format || 'YYYY-MM-DD HH:mm'
+var dynamicsUrl = url_for(dynamicsConfig.path || '/dynamics/')
+var dynamicsEnabled = dynamicsConfig.enable !== false
+
+page.title = page.title || date(page.date, 'YYYY-MM-DD HH:mm')
+page.subtitle = page.subtitle || page.title
+page.banner_img = page.banner_img || dynamicsConfig.note_banner_img || dynamicsConfig.banner_img
+page.banner_img_height = page.banner_img_height || dynamicsConfig.note_banner_img_height
+page.banner_mask_alpha = page.banner_mask_alpha || dynamicsConfig.banner_mask_alpha
+%>
+
+<div class="dynamics-note-page">
+  <% if (dynamicsEnabled) { %>
+    <nav class="dynamics-note-nav" aria-label="<%- __('dynamics.nav_label') %>">
+      <a class="dynamics-note-back" href="<%= dynamicsUrl %>">
+        <i class="iconfont icon-arrowleft" aria-hidden="true"></i>
+        <span><%- __('dynamics.back') %></span>
+      </a>
+    </nav>
+  <% } %>
+
+  <%- partial('_partials/dynamics/note-card', {
+    note: page,
+    isDetail: true,
+    avatar: avatar ? url_for(avatar) : '',
+    author: author,
+    dateFormat: dateFormat
+  }) %>
+</div>
+
+<%- partial('_partials/markdown-plugins') %>

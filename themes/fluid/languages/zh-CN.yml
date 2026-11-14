@@ -66,4 +66,19 @@ search:
   title: '搜索'
   keyword: '关键词'
 
+dynamics:
+  menu: '动态'
+  title: '动态'
+  total: '共 %d 条动态'
+  current_page: '第 %d 页'
+  empty: '还没有动态，去记录一下生活吧'
+  back: '返回动态'
+  pin: '置顶'
+  permalink: '动态链接'
+  nav_label: '动态导航'
+  relative_just_now: '刚刚'
+  relative_minutes: '{n} 分钟前'
+  relative_hours: '{n} 小时前'
+  relative_days: '{n} 天前'
+
 noscript_warning: '博客在允许 JavaScript 运行的环境下浏览效果更佳'

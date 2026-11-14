@@ -368,6 +368,7 @@ navbar:
   # Navigation bar menu. `key` is used to associate languages/*.yml. If there is no association, the value of `key` itself will be displayed; if `icon` is a css class, it can be omitted; adding `name` can force the display of the specified name
   menu:
     - { key: 'home', link: "/", icon: "iconfont icon-home-fill" }
+    - { key: "dynamics", link: "/dynamics/", icon: "iconfont icon-clock-fill" }
     - {
       key: '页面',
       icon: 'iconfont icon-program',
@@ -984,7 +985,7 @@ about:
   banner_img: /img/index.jpg
   banner_img_height: 60
   banner_mask_alpha: 0.3
-  avatar: https://api.mmeiblog.cn/favicon.ico
+  avatar: /favicon.ico
   name: "mei"
   intro: "重度妄想症患者"
   # 更多图标可从 https://hexo.fluid-dev.com/docs/icon/ 查找，`class` 代表图标的 css class，添加 `qrcode` 后，图标不再是链接而是悬浮二维码
@@ -1137,6 +1138,55 @@ links:
     # The specified plugin needs to set the necessary parameters at the same time
     # Options: utterances | disqus | gitalk | valine | waline | changyan | livere | remark42 | twikoo | cusdis | giscus | discuss
     type: utterances
+
+
+#---------------------------
+# 动态页
+# Moments Page
+#
+# 在 source/dynamics/ 目录下新建 Markdown 文件即可发布动态，文件格式与文章一致
+# （Front-matter + 正文），支持图片、代码等 Markdown 语法，也支持图片资源目录。
+# 也可以运行 `hexo dynamics "标题"` 快速新建一条动态。
+#---------------------------
+dynamics:
+  enable: true
+
+  # 动态列表页路径
+  # Path of the moments page
+  path: /dynamics/
+
+  # 每页显示的动态数量，设为 0 表示不分页
+  # Number of moments per page, 0 means no pagination
+  per_page: 10
+
+  # 页面顶部说明文字，支持 HTML
+  # Intro text at the top of the page, HTML is supported
+  description: ''
+
+  # 头图配置，留空则使用 page 页面的头图
+  # Banner config, empty means using the banner of page
+  banner_img: /img/index.jpg
+  banner_img_height: 50
+  banner_mask_alpha: 0.3
+
+  # 单条动态详情页的头图，留空则使用上面的 banner_img
+  # Banner of the single moment page, empty means using banner_img above
+  note_banner_img: ''
+  note_banner_img_height: 30
+
+  # 标题/副标题，为空则使用语言包中的默认值
+  # Title and subtitle, empty means using the default value in language files
+  title: '动态'
+  subtitle: '一些短评和生活碎片'
+
+  # 头像与作者名，为空则使用关于页的配置
+  # Avatar and author name, empty means using the config of about page
+  avatar: ''
+  author: ''
+
+  # 时间显示格式，参考 http://momentjs.cn/docs/#/displaying/format/
+  # Date format, see http://momentjs.com/docs/#/displaying/format/
+  date_format: 'YYYY-MM-DD HH:mm'
 
 
 #---------------------------

@@ -66,4 +66,19 @@ search:
   title: 'Buscar'
   keyword: 'Palabra clave'
 
+dynamics:
+  menu: 'Momentos'
+  title: 'Momentos'
+  total: 'Total %d momentos'
+  current_page: 'Página %d'
+  empty: 'Aún no hay momentos'
+  back: 'Volver a los momentos'
+  pin: 'Fijado'
+  permalink: 'Enlace'
+  nav_label: 'Navegación de momentos'
+  relative_just_now: 'Justo ahora'
+  relative_minutes: 'hace {n} minutos'
+  relative_hours: 'hace {n} horas'
+  relative_days: 'hace {n} días'
+
 noscript_warning: 'El blog funciona mejor con JavaScript habilitado'

@@ -342,6 +342,7 @@ navbar:
   # Navigation bar menu. `key` is used to associate languages/*.yml. If there is no association, the value of `key` itself will be displayed; if `icon` is a css class, it can be omitted; adding `name` can force the display of the specified name
   menu:
     - { key: "home", link: "/", icon: "iconfont icon-home-fill" }
+    - { key: "dynamics", link: "/dynamics/", icon: "iconfont icon-clock-fill" }
     - {
       key: '页面',
       icon: 'iconfont icon-books',
@@ -1073,6 +1074,31 @@ links:
     # The specified plugin needs to set the necessary parameters at the same time
     # Options: utterances | disqus | gitalk | valine | waline | changyan | livere | remark42 | twikoo | cusdis | giscus | discuss
     type: disqus
+
+
+#---------------------------
+# 动态页
+# Moments Page
+#
+# 在 source/dynamics/ 目录下新建 Markdown 文件即可发布动态，文件格式与文章一致
+# （Front-matter + 正文），支持图片、代码等 Markdown 语法，也支持图片资源目录。
+# 也可以运行 `hexo dynamics "标题"` 快速新建一条动态。
+#---------------------------
+dynamics:
+  enable: true
+  path: /dynamics/
+  per_page: 10
+  description: ''
+  banner_img: /img/index.jpg
+  banner_img_height: 50
+  banner_mask_alpha: 0.3
+  note_banner_img: ''
+  note_banner_img_height: 30
+  title: ''
+  subtitle: ''
+  avatar: ''
+  author: ''
+  date_format: 'YYYY-MM-DD HH:mm'
 
 
 #---------------------------

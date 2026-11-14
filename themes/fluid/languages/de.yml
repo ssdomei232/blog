@@ -66,4 +66,19 @@ search:
   title: 'Suchen'
   keyword: 'Stichwort'
 
+dynamics:
+  menu: 'Momente'
+  title: 'Momente'
+  total: 'Insgesamt %d Momente'
+  current_page: 'Seite %d'
+  empty: 'Noch keine Momente'
+  back: 'Zurück zu den Momenten'
+  pin: 'Angepinnt'
+  permalink: 'Permalink'
+  nav_label: 'Momente-Navigation'
+  relative_just_now: 'Gerade eben'
+  relative_minutes: 'vor {n} Minuten'
+  relative_hours: 'vor {n} Stunden'
+  relative_days: 'vor {n} Tagen'
+
 noscript_warning: 'Blog funktioniert am besten mit aktiviertem JavaScript'

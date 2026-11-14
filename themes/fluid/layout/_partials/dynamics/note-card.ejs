@@ -1,0 +1,71 @@
+<%
+var note = note || page
+var noteUrl = url_for(note.path)
+var noteTitle = note.title || ''
+var noteTags = Array.isArray(note.tags) ? note.tags : (note.tags ? [note.tags] : [])
+var noteIsDetail = typeof isDetail === 'boolean' ? isDetail : false
+var noteAuthor = String(author || theme.about.name || config.author || '')
+var noteDateFormat = dateFormat || (theme.dynamics && theme.dynamics.date_format) || 'YYYY-MM-DD HH:mm'
+%>
+
+<article class="dynamics-item<%= noteIsDetail ? ' dynamics-item--detail' : '' %>">
+  <div class="dynamics-item-avatar">
+    <span class="dynamics-avatar-box">
+      <span class="dynamics-avatar dynamics-avatar-text" aria-hidden="true"><%= (noteAuthor || '?').charAt(0).toUpperCase() %></span>
+      <% if (avatar) { %>
+        <img class="dynamics-avatar dynamics-avatar-img" src="<%= avatar %>" alt="<%= noteAuthor %>"
+          width="48" height="48" onerror="this.style.display='none'">
+      <% } %>
+    </span>
+  </div>
+
+  <div class="dynamics-item-main">
+    <div class="dynamics-item-header">
+      <span class="dynamics-author"><%= noteAuthor %></span>
+
+      <% if (note.top === true) { %>
+        <span class="dynamics-pin" title="<%- __('dynamics.pin') %>">
+          <i class="iconfont icon-top" aria-hidden="true"></i>
+          <%- __('dynamics.pin') %>
+        </span>
+      <% } %>
+
+      <time class="dynamics-time"
+        datetime="<%= date_xml(note.date) %>"
+        data-dynamics-time="<%= date_xml(note.date) %>"
+        title="<%= full_date(note.date, 'YYYY-MM-DD HH:mm:ss') %>">
+        <%- date(note.date, noteDateFormat) %>
+      </time>
+
+      <% if (!noteIsDetail) { %>
+        <a class="dynamics-permalink" href="<%= noteUrl %>"
+          rel="bookmark" title="<%- __('dynamics.permalink') %>"
+          aria-label="<%- __('dynamics.permalink') %>">
+          <i class="iconfont icon-link-fill" aria-hidden="true"></i>
+        </a>
+      <% } %>
+    </div>
+
+    <% if (noteTitle) { %>
+      <% if (noteIsDetail) { %>
+        <h1 class="dynamics-item-title"><%= noteTitle %></h1>
+      <% } else { %>
+        <h2 class="dynamics-item-title">
+          <a href="<%= noteUrl %>"><%= noteTitle %></a>
+        </h2>
+      <% } %>
+    <% } %>
+
+    <div class="dynamics-item-content markdown-body">
+      <%- noteIsDetail ? note.content : dynamics_content(note.content, note) %>
+    </div>
+
+    <% if (noteTags.length) { %>
+      <div class="dynamics-item-footer">
+        <% noteTags.forEach(function(tag) { %>
+          <span class="dynamics-topic">#&nbsp;<%= tag %></span>
+        <% }) %>
+      </div>
+    <% } %>
+  </div>
+</article>

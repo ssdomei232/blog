@@ -66,4 +66,19 @@ search:
   title: '検索'
   keyword: 'キーワード'
 
+dynamics:
+  menu: 'つぶやき'
+  title: 'つぶやき'
+  total: '全 %d 件'
+  current_page: 'ページ %d'
+  empty: 'まだつぶやきがありません'
+  back: 'つぶやきに戻る'
+  pin: '固定'
+  permalink: 'リンク'
+  nav_label: 'つぶやきナビゲーション'
+  relative_just_now: 'たった今'
+  relative_minutes: '{n} 分前'
+  relative_hours: '{n} 時間前'
+  relative_days: '{n} 日前'
+
 noscript_warning: 'ブログは JavaScript を有効にすると最適に機能します'

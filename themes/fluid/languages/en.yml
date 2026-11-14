@@ -66,4 +66,19 @@ search:
   title: 'Search'
   keyword: 'Keyword'
 
+dynamics:
+  menu: 'Moments'
+  title: 'Moments'
+  total: 'Total %d moments'
+  current_page: 'Page %d'
+  empty: 'No moments yet'
+  back: 'Back to moments'
+  pin: 'Pinned'
+  permalink: 'Permalink'
+  nav_label: 'Moments navigation'
+  relative_just_now: 'Just now'
+  relative_minutes: '{n} minutes ago'
+  relative_hours: '{n} hours ago'
+  relative_days: '{n} days ago'
+
 noscript_warning: 'Blog works best with JavaScript enabled'

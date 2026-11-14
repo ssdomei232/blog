@@ -66,4 +66,19 @@ search:
   title: 'Serĉi'
   keyword: 'ŝlosivorto'
 
+dynamics:
+  menu: 'Momentoj'
+  title: 'Momentoj'
+  total: 'Entute %d momentoj'
+  current_page: 'Paĝo %d'
+  empty: 'Ankoraŭ ne estas momentoj'
+  back: 'Reen al momentoj'
+  pin: 'Fiksita'
+  permalink: 'Konstanta ligilo'
+  nav_label: 'Momentoj-navigado'
+  relative_just_now: 'Ĝuste nun'
+  relative_minutes: 'antaŭ {n} minutoj'
+  relative_hours: 'antaŭ {n} horoj'
+  relative_days: 'antaŭ {n} tagoj'
+
 noscript_warning: 'Blogo funkcias plej bone kun JavaScript ebligita'

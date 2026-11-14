@@ -1,0 +1,475 @@
+// --------------------------------------
+// Dynamics
+// --------------------------------------
+
+$dynamics-avatar-size = 3rem
+$dynamics-avatar-gap = 1rem
+$dynamics-avatar-size-mobile = 2.25rem
+$dynamics-avatar-gap-mobile = .75rem
+$dynamics-card-padding = 1rem 1.25rem
+$dynamics-card-padding-mobile = .9rem 1rem
+
+.dynamics-page, .dynamics-note-page
+  padding-left 10%
+  padding-right 10%
+
+// 顶部概览
+// --------------------------------------
+.dynamics-summary
+  display flex
+  flex-wrap wrap
+  align-items center
+  justify-content space-between
+  margin-bottom 1.5rem
+  color var(--sec-text-color)
+  font-size .85rem
+  line-height 1.6
+  transition color .2s ease-in-out
+
+.dynamics-summary-count
+  display inline-flex
+  align-items center
+
+  i
+    margin-right .35rem
+    font-size .95rem
+    opacity .85
+
+.dynamics-summary-desc
+  flex 1 1 auto
+  min-width 0
+  margin-left 1rem
+  font-size .82rem
+  text-align right
+  opacity .9
+
+// 年份分隔条
+// --------------------------------------
+.dynamics-feed
+  // 列表首条年份不需要额外的上间距
+  & > .dynamics-year:first-child
+    margin-top 0
+
+.dynamics-year
+  display flex
+  align-items center
+  margin-top 1.75rem
+  margin-bottom 1rem
+  margin-left ($dynamics-avatar-size + $dynamics-avatar-gap)
+  color var(--sec-text-color)
+  font-size .85rem
+  font-weight 500
+  line-height 1.2
+  letter-spacing .02em
+  font-variant-numeric tabular-nums
+  transition color .2s ease-in-out
+
+  &::after
+    content ""
+    flex 1
+    height 1px
+    margin-left .75rem
+    background-color var(--line-color)
+    transition background-color .2s ease-in-out
+
+// 动态条目
+// --------------------------------------
+.dynamics-item
+  display flex
+  padding-bottom 1.25rem
+
+  &:last-of-type
+    padding-bottom 0
+
+.dynamics-item-avatar
+  position relative
+  flex 0 0 $dynamics-avatar-size
+  margin-right $dynamics-avatar-gap
+  padding-top .25rem
+
+  &::before
+    content ""
+    position absolute
+    top 0
+    bottom 0
+    left 50%
+    width 2px
+    margin-left -1px
+    border-radius 1px
+    background-color var(--line-color)
+    transition background-color .2s ease-in-out
+
+.dynamics-avatar-box
+  position relative
+  display block
+  width $dynamics-avatar-size
+  height $dynamics-avatar-size
+  border-radius 50%
+  background-color var(--body-bg-color)
+  box-shadow 0 0 0 1px var(--line-color), 0 0 0 3px var(--board-bg-color)
+  transition background-color .2s ease-in-out, box-shadow .2s ease-in-out
+
+.dynamics-avatar
+  position relative
+  display block
+  width 100%
+  height 100%
+  border-radius 50%
+  object-fit cover
+  background-color transparent
+
+.dynamics-avatar-img
+  position absolute
+  top 0
+  left 0
+
+.dynamics-avatar-text
+  display flex
+  align-items center
+  justify-content center
+  color var(--sec-text-color)
+  font-size 1.1rem
+  font-weight 600
+  line-height 1
+  user-select none
+
+.dynamics-item-main
+  flex 1
+  min-width 0
+  padding $dynamics-card-padding
+  background-color var(--body-bg-color)
+  border-radius .5rem
+  transition background-color .2s ease-in-out, box-shadow .2s ease-in-out
+
+.dynamics-feed .dynamics-item:hover .dynamics-item-main
+  box-shadow 0 4px 14px rgba(0, 0, 0, .06)
+
+// 卡片头部
+// --------------------------------------
+.dynamics-item-header
+  display flex
+  flex-wrap wrap
+  align-items center
+  margin-bottom .5rem
+  font-size .9rem
+  line-height 1.4
+
+.dynamics-author
+  margin-right .5rem
+  color var(--text-color)
+  font-weight 600
+  transition color .2s ease-in-out
+
+.dynamics-pin
+  display inline-flex
+  align-items center
+  margin-right .5rem
+  padding 0 .3rem
+  border-radius .25rem
+  background-color var(--button-bg-color)
+  color var(--sec-text-color)
+  font-size .7rem
+  line-height 1.6
+  transition background-color .2s ease-in-out, color .2s ease-in-out
+
+  i
+    margin-right .15rem
+    font-size .9em
+
+.dynamics-time
+  color var(--sec-text-color)
+  font-size .8rem
+  font-variant-numeric tabular-nums
+  transition color .2s ease-in-out
+
+.dynamics-permalink
+  flex none
+  margin-left auto
+  margin-right -.25rem
+  padding .15rem .25rem
+  color var(--sec-text-color)
+  font-size .9rem
+  line-height 1
+  opacity .4
+  transition opacity .2s ease-in-out, color .2s ease-in-out
+
+  &:hover, &:focus
+    color var(--link-hover-color)
+    opacity 1
+    text-decoration none
+
+// 标题
+// --------------------------------------
+.dynamics-item-title
+  margin 0 0 .5rem
+  color var(--post-heading-color)
+  font-size 1.05rem
+  font-weight 600
+  line-height 1.45
+  overflow-wrap break-word
+  transition color .2s ease-in-out
+
+  a
+    color inherit
+    transition color .2s ease-in-out
+
+    &:hover
+      color var(--link-hover-color)
+      text-decoration none
+
+// 正文
+// --------------------------------------
+.dynamics-item-content.markdown-body
+  margin-bottom 0
+  color var(--post-text-color)
+  font-size .95rem
+  line-height 1.7
+  overflow-wrap break-word
+
+  & > *:first-child
+    margin-top 0
+
+  & > *:last-child
+    margin-bottom 0
+
+  p
+    margin .5rem 0
+
+  h1, h2, h3, h4, h5, h6
+    margin .9rem 0 .5rem
+    line-height 1.45
+    font-weight bold
+
+  h1
+    font-size 1.3rem
+
+  h2
+    font-size 1.2rem
+
+  h3
+    font-size 1.1rem
+
+  h4
+    font-size 1rem
+
+  h5
+    font-size .95rem
+
+  h6
+    font-size .9rem
+
+  hr
+    margin 1rem 0
+
+  img
+    display block
+    max-width 100%
+    height auto
+    margin .75rem auto
+    border-radius 6px
+    box-shadow 0 2px 10px rgba(0, 0, 0, .08)
+    background-color transparent
+
+  figcaption.image-caption
+    margin .25rem auto .75rem
+    font-size .8rem
+
+  // 多图布局：避免撑破卡片
+  .group-image-container
+    max-width 100%
+    margin .75rem auto
+
+    .group-image-row
+      margin-bottom .5rem
+
+      &:last-child
+        margin-bottom 0
+
+    .group-image-wrap
+      min-width 0
+
+    img
+      margin 0 auto
+      border-radius 6px
+      box-shadow 0 2px 10px rgba(0, 0, 0, .08)
+
+// 标签
+// --------------------------------------
+.dynamics-item-footer
+  display flex
+  flex-wrap wrap
+  align-items center
+  margin-top .75rem
+
+.dynamics-topic
+  display inline-flex
+  align-items center
+  margin .15rem .5rem 0 0
+  padding .1rem .55rem
+  border-radius .75rem
+  background-color var(--button-bg-color)
+  color var(--sec-text-color)
+  font-size .76rem
+  line-height 1.5
+  transition background-color .2s ease-in-out, color .2s ease-in-out
+
+// 空状态
+// --------------------------------------
+.dynamics-empty
+  padding 5rem 1rem
+  color var(--sec-text-color)
+  text-align center
+  transition color .2s ease-in-out
+
+  i
+    display block
+    margin-bottom .75rem
+    font-size 2.5rem
+    opacity .5
+
+  p
+    margin 0
+    font-size .95rem
+    line-height 1.6
+
+// 详情页
+// --------------------------------------
+.dynamics-note-nav
+  display flex
+  align-items center
+  margin-bottom 1.25rem
+
+.dynamics-note-back
+  display inline-flex
+  align-items center
+  margin-left -.5rem
+  padding .25rem .5rem
+  border-radius .25rem
+  color var(--sec-text-color)
+  font-size .9rem
+  line-height 1.4
+  transition color .2s ease-in-out, background-color .2s ease-in-out
+
+  i
+    margin-right .35rem
+    font-size .9rem
+    transition transform .2s ease-in-out
+
+  &:hover, &:focus
+    color var(--link-hover-color)
+    background-color var(--link-hover-bg-color)
+    text-decoration none
+
+    i
+      transform translateX(-.15rem)
+
+.dynamics-item.dynamics-item--detail
+  display block
+  padding-bottom 0
+
+  .dynamics-item-avatar
+    display none
+
+  .dynamics-item-main
+    padding 1.5rem 1.75rem
+
+  .dynamics-item-header
+    margin-bottom .75rem
+    font-size .95rem
+
+  .dynamics-author
+    font-size 1rem
+
+  .dynamics-item-title
+    margin-bottom .75rem
+    font-size 1.3rem
+    line-height 1.4
+
+  .dynamics-item-content.markdown-body
+    font-size 1rem
+    line-height 1.75
+
+    p
+      margin .6rem 0
+
+    & > *:first-child
+      margin-top 0
+
+    & > *:last-child
+      margin-bottom 0
+
+// 响应式
+// --------------------------------------
+@media (max-width: 767px)
+  .dynamics-page, .dynamics-note-page
+    padding-left 1.5rem
+    padding-right 1.5rem
+
+  .dynamics-summary
+    margin-bottom 1.25rem
+
+  .dynamics-summary-desc
+    flex-basis 100%
+    margin-top .15rem
+    margin-left 0
+    text-align left
+
+  .dynamics-year
+    margin-top 1.5rem
+    margin-left ($dynamics-avatar-size-mobile + $dynamics-avatar-gap-mobile)
+
+  .dynamics-item
+    padding-bottom .9rem
+
+  .dynamics-item-avatar
+    flex 0 0 $dynamics-avatar-size-mobile
+    margin-right $dynamics-avatar-gap-mobile
+    padding-top .15rem
+
+  .dynamics-avatar-box
+    width $dynamics-avatar-size-mobile
+    height $dynamics-avatar-size-mobile
+
+  .dynamics-avatar-text
+    font-size .95rem
+
+  .dynamics-item-main
+    padding $dynamics-card-padding-mobile
+
+  .dynamics-item-content.markdown-body
+    font-size .95rem
+    line-height 1.7
+
+  .dynamics-item.dynamics-item--detail
+    .dynamics-item-main
+      padding 1.25rem 1rem
+
+    .dynamics-item-title
+      font-size 1.2rem
+
+@media (max-width: 424px)
+  .dynamics-page, .dynamics-note-page
+    padding-left 1rem
+    padding-right 1rem
+
+  .dynamics-item-avatar
+    margin-right .6rem
+
+    &::before
+      display none
+
+  .dynamics-year
+    margin-left 2.85rem
+
+  .dynamics-item-header
+    font-size .85rem
+
+  .dynamics-time
+    font-size .78rem
+
+  .dynamics-item-title
+    font-size 1rem
+
+  .dynamics-item.dynamics-item--detail
+    .dynamics-item-title
+      font-size 1.15rem

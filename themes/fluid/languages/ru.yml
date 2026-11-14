@@ -66,4 +66,19 @@ search:
   title: 'Поиск'
   keyword: 'Ключевое слово'
 
+dynamics:
+  menu: 'Моменты'
+  title: 'Моменты'
+  total: 'Всего %d моментов'
+  current_page: 'Страница %d'
+  empty: 'Пока нет моментов'
+  back: 'Назад к моментам'
+  pin: 'Закреплено'
+  permalink: 'Ссылка'
+  nav_label: 'Навигация по моментам'
+  relative_just_now: 'Только что'
+  relative_minutes: '{n} мин назад'
+  relative_hours: '{n} ч назад'
+  relative_days: '{n} дн назад'
+
 noscript_warning: 'Блог лучше всего работает с включенным JavaScript'

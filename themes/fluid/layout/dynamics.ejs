@@ -1,0 +1,67 @@
+<%
+var dynamicsConfig = theme.dynamics || {}
+var notes = page.posts || []
+var totalNotes = typeof page.dynamics_total === 'number' ? page.dynamics_total : notes.length
+var current = page.current || 1
+var avatar = dynamicsConfig.avatar || theme.about.avatar
+var author = dynamicsConfig.author || theme.about.name || config.author
+var dateFormat = dynamicsConfig.date_format || 'YYYY-MM-DD HH:mm'
+var avatarUrl = avatar ? url_for(avatar) : ''
+
+page.title = page.title || dynamicsConfig.title || __('dynamics.title')
+page.subtitle = page.subtitle || dynamicsConfig.subtitle || page.title
+if (current > 1) {
+  page.subtitle += ' · ' + __('dynamics.current_page', current)
+}
+page.banner_img = page.banner_img || dynamicsConfig.banner_img
+page.banner_img_height = page.banner_img_height || dynamicsConfig.banner_img_height
+page.banner_mask_alpha = page.banner_mask_alpha || dynamicsConfig.banner_mask_alpha
+page.anchorjs = false
+%>
+
+<div class="dynamics-page"
+  data-just-now="<%= __('dynamics.relative_just_now') %>"
+  data-minutes-ago="<%= __('dynamics.relative_minutes') %>"
+  data-hours-ago="<%= __('dynamics.relative_hours') %>"
+  data-days-ago="<%= __('dynamics.relative_days') %>">
+
+  <div class="dynamics-summary">
+    <span class="dynamics-summary-count">
+      <i class="iconfont icon-clock-fill" aria-hidden="true"></i>
+      <%- __('dynamics.total', totalNotes) %>
+    </span>
+    <% if (dynamicsConfig.description) { %>
+      <span class="dynamics-summary-desc"><%- dynamicsConfig.description %></span>
+    <% } %>
+  </div>
+
+  <% if (!notes.length) { %>
+    <div class="dynamics-empty">
+      <i class="iconfont icon-articles" aria-hidden="true"></i>
+      <p><%- __('dynamics.empty') %></p>
+    </div>
+  <% } else { %>
+    <div class="dynamics-feed">
+      <% var lastYear = null %>
+      <% notes.forEach(function(note) { %>
+        <% var noteYear = date(note.date, 'YYYY') %>
+        <% if (noteYear !== lastYear) { lastYear = noteYear %>
+          <div class="dynamics-year"><span><%= noteYear %></span></div>
+        <% } %>
+        <%- partial('_partials/dynamics/note-card', {
+          note: note,
+          isDetail: false,
+          avatar: avatarUrl,
+          author: author,
+          dateFormat: dateFormat
+        }) %>
+      <% }) %>
+    </div>
+
+    <%- partial('_partials/paginator') %>
+  <% } %>
+</div>
+
+<%- partial('_partials/markdown-plugins') %>
+
+<% import_js(theme.static_prefix.internal_js, 'dynamics.js', 'defer') %>

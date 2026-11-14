@@ -66,4 +66,19 @@ search:
   title: '搜尋'
   keyword: '關鍵字'
 
+dynamics:
+  menu: '動態'
+  title: '動態'
+  total: '共 %d 條動態'
+  current_page: '第 %d 頁'
+  empty: '還沒有動態，去記錄一下生活吧'
+  back: '返回動態'
+  pin: '置頂'
+  permalink: '動態連結'
+  nav_label: '動態導覽'
+  relative_just_now: '剛剛'
+  relative_minutes: '{n} 分鐘前'
+  relative_hours: '{n} 小時前'
+  relative_days: '{n} 天前'
+
 noscript_warning: '博客在允許 JavaScript 運行的環境下瀏覽效果更佳'

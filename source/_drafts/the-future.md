@@ -7,7 +7,7 @@ categories:
 - 编程
 index_img: /img/2024/
 banner_img: /img/2024/
-permalink: /articles/2026/the-future.md
+permalink: /articles/2026/the-future.html
 date: 2026-10-08 10:48:59
 ---
 
